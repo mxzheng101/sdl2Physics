@@ -78,17 +78,17 @@ bool loadMedia()
 
 void createObjects()
 {
-    Transform* dotTrans = new Transform{{SCREEN_WIDTH / 2, SCREEN_HEIGHT / 2}, {25.0, 25.0}, 0.0};
+    Transform* dotTrans = new Transform{{0.0, 0.0}, {25.0, 25.0}, 0.0};
     Obj* dot = new Obj{dotTrans, {0.0, 0.0}, {0.0, 0.0}, 10, &gDotTexture};
     gObjectList.push_back(dot);
     gWorld.addObject(dot);
 }
 
-void render()
+void render(int screenX, int screenY)
 {
     for (Obj* object : gObjectList)
     {
-        object->Texture->render(object->Trans->Position.x, object->Trans->Position.y, object->Trans->Scale, object->Trans->Rotation);
+        object->Texture->render(object->Trans->Position.x - screenX, object->Trans->Position.y - screenY, object->Trans->Scale, object->Trans->Rotation);
     }
 }
 
@@ -134,6 +134,11 @@ int main(int argc, char* args[])
 
     uint32_t lastTime = SDL_GetTicks();
 
+    int relScreenX = -SCREEN_WIDTH / 2;
+    int relScreenY = -SCREEN_HEIGHT / 2;
+    int lastScreenAbsX;
+    int lastScreenAbsY;
+    SDL_GetWindowPosition(gWindow, &lastScreenAbsX, &lastScreenAbsY);
     while (!quit)
     {
         while (SDL_PollEvent(&e) != 0)
@@ -141,6 +146,17 @@ int main(int argc, char* args[])
             if (e.type == SDL_QUIT)
             {
                 quit = true;
+            }
+            if (e.type == SDL_WINDOWEVENT)
+            {
+                if (e.window.event == SDL_WINDOWEVENT_MOVED)
+                {
+                    relScreenX += (e.window.data1 - lastScreenAbsX);
+                    relScreenY += (e.window.data2 - lastScreenAbsY);
+
+                    lastScreenAbsX = e.window.data1;
+                    lastScreenAbsY = e.window.data2;
+                }
             }
         }
 
@@ -151,8 +167,8 @@ int main(int argc, char* args[])
         SDL_SetRenderDrawColor(gRenderer, 0xff, 0xff, 0xff, 0xff);
         SDL_RenderClear(gRenderer);
 
-        gWorld.update(dt, SCREEN_WIDTH, SCREEN_HEIGHT);
-        render();
+        gWorld.update(dt, SCREEN_WIDTH, SCREEN_HEIGHT, relScreenX, relScreenY);
+        render(relScreenX, relScreenY);
 
         SDL_RenderPresent(gRenderer);
     }
