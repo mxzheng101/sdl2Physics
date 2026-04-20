@@ -88,7 +88,7 @@ void render(int screenX, int screenY)
 {
     for (Obj* object : gObjectList)
     {
-        object->Texture->render(object->Trans->Position.x - screenX, object->Trans->Position.y - screenY, object->Trans->Scale, object->Trans->Rotation);
+        object->Texture->render(object->Trans->Position.x * PIX_TO_M - screenX, object->Trans->Position.y * PIX_TO_M - screenY, object->Trans->Scale, object->Trans->Rotation);
     }
 }
 

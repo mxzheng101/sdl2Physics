@@ -6,7 +6,7 @@
 #include "Vec2.hpp"
 #include "Obj.hpp"
 
-#define PIX_TO_M 75
+#define PIX_TO_M 150
 
 class physWorld
 {
