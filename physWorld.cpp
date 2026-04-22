@@ -79,11 +79,14 @@ void physWorld::update(double dt, const int SCREEN_WIDTH, const int SCREEN_HEIGH
             }
         }
 
-        printf("x: %f, y: %f, xVel: %f, yVel: %f, wallX: %f, wallY: %f, dt: %f\n",
-            obj->Trans->Position.x, obj->Trans->Position.y,
-            obj->Velocity.x, obj->Velocity.y,
-            wallVelX, wallVelY,
-            dt);
+        if (DEBUG)
+        {
+            printf("x: %f, y: %f, xVel: %f, yVel: %f, wallX: %f, wallY: %f, dt: %f\n",
+                obj->Trans->Position.x, obj->Trans->Position.y,
+                obj->Velocity.x, obj->Velocity.y,
+                wallVelX, wallVelY,
+                dt);
+        }
 
         obj->Force = {0.0, 0.0};
     }

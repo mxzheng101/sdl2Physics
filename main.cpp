@@ -9,6 +9,7 @@
 #include "Obj.hpp"
 #include "Vec2.hpp"
 #include "physWorld.hpp"
+#include "Circle.hpp"
 
 
 const int SCREEN_WIDTH = 1280;
@@ -94,6 +95,7 @@ void render(int screenX, int screenY)
 
 void close()
 {
+    gWorld.free();
     gDotTexture.free();
     for (Obj* object : gObjectList)
     {
@@ -123,11 +125,11 @@ int main(int argc, char* args[])
 
     if (!loadMedia())
     {
-        printf("unable to laod media.\n");
+        printf("unable to load media.\n");
         return 2;
     }
 
-    createObjects();
+    //createObjects();
 
     bool quit = false;
     SDL_Event e;
@@ -169,6 +171,7 @@ int main(int argc, char* args[])
 
         gWorld.update(dt, SCREEN_WIDTH, SCREEN_HEIGHT, relScreenX, relScreenY);
         render(relScreenX, relScreenY);
+        renderCircle(gRenderer, SCREEN_WIDTH / 2, SCREEN_HEIGHT / 2, 30, {0x00, 0x00, 0x00, 0xff});
 
         SDL_RenderPresent(gRenderer);
     }

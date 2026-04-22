@@ -7,6 +7,7 @@
 #include "Obj.hpp"
 
 #define PIX_TO_M 150
+#define DEBUG false
 
 class physWorld
 {
