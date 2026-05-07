@@ -149,13 +149,13 @@ void PendulumCart::update(double dt)
 
 void PendulumCart::render()
 {
-    SDL_Rect cartRect = {(int) (mState[0] * PIX_PER_M + 500), 300, 200, 200};
+    SDL_Rect cartRect = {(int) (mState[0] * PIX_PER_M + 500), 300, 350, 150};
     SDL_SetRenderDrawColor(gRenderer, 0xff, 0x00, 0x00, 0xff);
     SDL_RenderDrawRect(gRenderer, &cartRect);
 
     int armX1, armY1, armX2, armY2;
 
-    armX1 = (int) (mState[0] * PIX_PER_M + 500);
+    armX1 = (int) (mState[0] * PIX_PER_M + 675);
     armY1 = 300;
     armX2 = armX1 + (int)(fastSine(mState[2]) * pendulumLengthM * PIX_PER_M);
     armY2 = armY1 + (int)(fastCosine(mState[2]) * pendulumLengthM * PIX_PER_M);
