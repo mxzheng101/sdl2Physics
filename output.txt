@@ -1,0 +1,7476 @@
+0.039029
+Current State:
+x: 0.000289
+xDot: 0.014799
+theta: 0.200883
+thetaDot: 0.045301
+0.008345
+Current State:
+x: 0.000425
+xDot: 0.017976
+theta: 0.201302
+thetaDot: 0.055024
+0.000425
+Current State:
+x: 0.000433
+xDot: 0.018138
+theta: 0.201325
+thetaDot: 0.055520
+0.000081
+Current State:
+x: 0.000434
+xDot: 0.018168
+theta: 0.201330
+thetaDot: 0.055614
+0.000080
+Current State:
+x: 0.000436
+xDot: 0.018199
+theta: 0.201334
+thetaDot: 0.055707
+0.000069
+Current State:
+x: 0.000437
+xDot: 0.018225
+theta: 0.201338
+thetaDot: 0.055788
+0.000065
+Current State:
+x: 0.000438
+xDot: 0.018250
+theta: 0.201342
+thetaDot: 0.055863
+0.000064
+Current State:
+x: 0.000440
+xDot: 0.018274
+theta: 0.201345
+thetaDot: 0.055938
+0.000064
+Current State:
+x: 0.000441
+xDot: 0.018298
+theta: 0.201349
+thetaDot: 0.056012
+0.000063
+Current State:
+x: 0.000442
+xDot: 0.018322
+theta: 0.201352
+thetaDot: 0.056086
+0.000059
+Current State:
+x: 0.000443
+xDot: 0.018345
+theta: 0.201356
+thetaDot: 0.056155
+0.000046
+Current State:
+x: 0.000444
+xDot: 0.018362
+theta: 0.201358
+thetaDot: 0.056208
+0.000038
+Current State:
+x: 0.000444
+xDot: 0.018377
+theta: 0.201361
+thetaDot: 0.056252
+0.000038
+Current State:
+x: 0.000445
+xDot: 0.018391
+theta: 0.201363
+thetaDot: 0.056297
+0.000036
+Current State:
+x: 0.000446
+xDot: 0.018405
+theta: 0.201365
+thetaDot: 0.056339
+0.000038
+Current State:
+x: 0.000447
+xDot: 0.018420
+theta: 0.201367
+thetaDot: 0.056384
+0.000038
+Current State:
+x: 0.000447
+xDot: 0.018434
+theta: 0.201369
+thetaDot: 0.056428
+0.000037
+Current State:
+x: 0.000448
+xDot: 0.018448
+theta: 0.201371
+thetaDot: 0.056471
+0.000037
+Current State:
+x: 0.000449
+xDot: 0.018462
+theta: 0.201373
+thetaDot: 0.056514
+0.000037
+Current State:
+x: 0.000449
+xDot: 0.018476
+theta: 0.201375
+thetaDot: 0.056557
+0.000036
+Current State:
+x: 0.000450
+xDot: 0.018490
+theta: 0.201377
+thetaDot: 0.056600
+0.000044
+Current State:
+x: 0.000451
+xDot: 0.018507
+theta: 0.201380
+thetaDot: 0.056651
+0.000037
+Current State:
+x: 0.000451
+xDot: 0.018521
+theta: 0.201382
+thetaDot: 0.056694
+0.000037
+Current State:
+x: 0.000452
+xDot: 0.018535
+theta: 0.201384
+thetaDot: 0.056737
+0.000036
+Current State:
+x: 0.000453
+xDot: 0.018549
+theta: 0.201386
+thetaDot: 0.056779
+0.000042
+Current State:
+x: 0.000454
+xDot: 0.018565
+theta: 0.201388
+thetaDot: 0.056829
+0.000040
+Current State:
+x: 0.000454
+xDot: 0.018580
+theta: 0.201391
+thetaDot: 0.056875
+0.000037
+Current State:
+x: 0.000455
+xDot: 0.018594
+theta: 0.201393
+thetaDot: 0.056918
+0.000037
+Current State:
+x: 0.000456
+xDot: 0.018608
+theta: 0.201395
+thetaDot: 0.056961
+0.000037
+Current State:
+x: 0.000456
+xDot: 0.018622
+theta: 0.201397
+thetaDot: 0.057004
+0.000037
+Current State:
+x: 0.000457
+xDot: 0.018636
+theta: 0.201399
+thetaDot: 0.057047
+0.000043
+Current State:
+x: 0.000458
+xDot: 0.018653
+theta: 0.201402
+thetaDot: 0.057097
+0.000037
+Current State:
+x: 0.000459
+xDot: 0.018667
+theta: 0.201404
+thetaDot: 0.057140
+0.000037
+Current State:
+x: 0.000459
+xDot: 0.018681
+theta: 0.201406
+thetaDot: 0.057183
+0.000055
+Current State:
+x: 0.000460
+xDot: 0.018702
+theta: 0.201409
+thetaDot: 0.057247
+0.000039
+Current State:
+x: 0.000461
+xDot: 0.018717
+theta: 0.201411
+thetaDot: 0.057293
+0.000039
+Current State:
+x: 0.000462
+xDot: 0.018731
+theta: 0.201413
+thetaDot: 0.057338
+0.000038
+Current State:
+x: 0.000462
+xDot: 0.018746
+theta: 0.201416
+thetaDot: 0.057382
+0.000046
+Current State:
+x: 0.000463
+xDot: 0.018763
+theta: 0.201418
+thetaDot: 0.057436
+0.000045
+Current State:
+x: 0.000464
+xDot: 0.018780
+theta: 0.201421
+thetaDot: 0.057488
+0.000041
+Current State:
+x: 0.000465
+xDot: 0.018796
+theta: 0.201423
+thetaDot: 0.057536
+0.000083
+Current State:
+x: 0.000466
+xDot: 0.018828
+theta: 0.201428
+thetaDot: 0.057633
+0.000164
+Current State:
+x: 0.000470
+xDot: 0.018890
+theta: 0.201437
+thetaDot: 0.057824
+0.000126
+Current State:
+x: 0.000472
+xDot: 0.018938
+theta: 0.201445
+thetaDot: 0.057971
+0.000162
+Current State:
+x: 0.000475
+xDot: 0.019000
+theta: 0.201454
+thetaDot: 0.058160
+0.000125
+Current State:
+x: 0.000477
+xDot: 0.019048
+theta: 0.201461
+thetaDot: 0.058306
+0.000117
+Current State:
+x: 0.000480
+xDot: 0.019092
+theta: 0.201468
+thetaDot: 0.058442
+0.000115
+Current State:
+x: 0.000482
+xDot: 0.019136
+theta: 0.201475
+thetaDot: 0.058576
+0.000171
+Current State:
+x: 0.000485
+xDot: 0.019201
+theta: 0.201485
+thetaDot: 0.058776
+0.000118
+Current State:
+x: 0.000487
+xDot: 0.019246
+theta: 0.201492
+thetaDot: 0.058914
+0.000049
+Current State:
+x: 0.000488
+xDot: 0.019265
+theta: 0.201495
+thetaDot: 0.058971
+0.000057
+Current State:
+x: 0.000489
+xDot: 0.019287
+theta: 0.201498
+thetaDot: 0.059038
+0.000046
+Current State:
+x: 0.000490
+xDot: 0.019304
+theta: 0.201501
+thetaDot: 0.059091
+0.000046
+Current State:
+x: 0.000491
+xDot: 0.019322
+theta: 0.201504
+thetaDot: 0.059146
+0.000703
+Current State:
+x: 0.000505
+xDot: 0.019590
+theta: 0.201545
+thetaDot: 0.059967
+0.000088
+Current State:
+x: 0.000507
+xDot: 0.019624
+theta: 0.201551
+thetaDot: 0.060069
+0.000073
+Current State:
+x: 0.000508
+xDot: 0.019651
+theta: 0.201555
+thetaDot: 0.060155
+0.000065
+Current State:
+x: 0.000509
+xDot: 0.019676
+theta: 0.201559
+thetaDot: 0.060231
+0.000069
+Current State:
+x: 0.000511
+xDot: 0.019703
+theta: 0.201563
+thetaDot: 0.060311
+0.000077
+Current State:
+x: 0.000512
+xDot: 0.019732
+theta: 0.201568
+thetaDot: 0.060400
+0.000063
+Current State:
+x: 0.000513
+xDot: 0.019756
+theta: 0.201572
+thetaDot: 0.060474
+0.000071
+Current State:
+x: 0.000515
+xDot: 0.019783
+theta: 0.201576
+thetaDot: 0.060556
+0.000057
+Current State:
+x: 0.000516
+xDot: 0.019805
+theta: 0.201579
+thetaDot: 0.060623
+0.000074
+Current State:
+x: 0.000517
+xDot: 0.019833
+theta: 0.201584
+thetaDot: 0.060710
+0.000101
+Current State:
+x: 0.000519
+xDot: 0.019872
+theta: 0.201590
+thetaDot: 0.060828
+0.000089
+Current State:
+x: 0.000521
+xDot: 0.019905
+theta: 0.201595
+thetaDot: 0.060932
+0.000202
+Current State:
+x: 0.000525
+xDot: 0.019982
+theta: 0.201608
+thetaDot: 0.061168
+0.012064
+Current State:
+x: 0.000794
+xDot: 0.024595
+theta: 0.202431
+thetaDot: 0.075289
+0.006068
+Current State:
+x: 0.000950
+xDot: 0.026923
+theta: 0.202909
+thetaDot: 0.082414
+0.006042
+Current State:
+x: 0.001120
+xDot: 0.029246
+theta: 0.203429
+thetaDot: 0.089527
+0.006068
+Current State:
+x: 0.001305
+xDot: 0.031586
+theta: 0.203994
+thetaDot: 0.096689
+0.006043
+Current State:
+x: 0.001503
+xDot: 0.033922
+theta: 0.204600
+thetaDot: 0.103841
+0.006113
+Current State:
+x: 0.001717
+xDot: 0.036292
+theta: 0.205257
+thetaDot: 0.111099
+0.006012
+Current State:
+x: 0.001942
+xDot: 0.038631
+theta: 0.205946
+thetaDot: 0.118259
+0.006153
+Current State:
+x: 0.002188
+xDot: 0.041033
+theta: 0.206696
+thetaDot: 0.125613
+0.006063
+Current State:
+x: 0.002443
+xDot: 0.043408
+theta: 0.207480
+thetaDot: 0.132885
+0.005997
+Current State:
+x: 0.002711
+xDot: 0.045766
+theta: 0.208299
+thetaDot: 0.140107
+0.006052
+Current State:
+x: 0.002995
+xDot: 0.048156
+theta: 0.209169
+thetaDot: 0.147424
+0.006062
+Current State:
+x: 0.003294
+xDot: 0.050559
+theta: 0.210085
+thetaDot: 0.154783
+0.006105
+Current State:
+x: 0.003610
+xDot: 0.052990
+theta: 0.211052
+thetaDot: 0.162227
+0.006155
+Current State:
+x: 0.003944
+xDot: 0.055452
+theta: 0.212074
+thetaDot: 0.169768
+0.005911
+Current State:
+x: 0.004279
+xDot: 0.057828
+theta: 0.213099
+thetaDot: 0.177043
+0.006244
+Current State:
+x: 0.004648
+xDot: 0.060350
+theta: 0.214229
+thetaDot: 0.184768
+0.005881
+Current State:
+x: 0.005010
+xDot: 0.062738
+theta: 0.215337
+thetaDot: 0.192080
+0.006187
+Current State:
+x: 0.005406
+xDot: 0.065263
+theta: 0.216549
+thetaDot: 0.199814
+0.005985
+Current State:
+x: 0.005804
+xDot: 0.067718
+theta: 0.217767
+thetaDot: 0.207336
+0.006004
+Current State:
+x: 0.006218
+xDot: 0.070196
+theta: 0.219035
+thetaDot: 0.214926
+0.006053
+Current State:
+x: 0.006650
+xDot: 0.072708
+theta: 0.220359
+thetaDot: 0.222621
+0.006102
+Current State:
+x: 0.007102
+xDot: 0.075255
+theta: 0.221741
+thetaDot: 0.230426
+0.006042
+Current State:
+x: 0.007564
+xDot: 0.077794
+theta: 0.223157
+thetaDot: 0.238203
+0.006054
+Current State:
+x: 0.008043
+xDot: 0.080353
+theta: 0.224623
+thetaDot: 0.246044
+0.006087
+Current State:
+x: 0.008540
+xDot: 0.082943
+theta: 0.226145
+thetaDot: 0.253980
+0.005987
+Current State:
+x: 0.009044
+xDot: 0.085507
+theta: 0.227689
+thetaDot: 0.261837
+0.006075
+Current State:
+x: 0.009571
+xDot: 0.088127
+theta: 0.229304
+thetaDot: 0.269865
+0.006084
+Current State:
+x: 0.010116
+xDot: 0.090768
+theta: 0.230970
+thetaDot: 0.277961
+0.006057
+Current State:
+x: 0.010673
+xDot: 0.093417
+theta: 0.232678
+thetaDot: 0.286079
+0.006119
+Current State:
+x: 0.011253
+xDot: 0.096112
+theta: 0.234454
+thetaDot: 0.294341
+0.006050
+Current State:
+x: 0.011843
+xDot: 0.098797
+theta: 0.236260
+thetaDot: 0.302571
+0.006025
+Current State:
+x: 0.012446
+xDot: 0.101491
+theta: 0.238107
+thetaDot: 0.310829
+0.006041
+Current State:
+x: 0.013067
+xDot: 0.104212
+theta: 0.240010
+thetaDot: 0.319174
+0.006079
+Current State:
+x: 0.013709
+xDot: 0.106973
+theta: 0.241976
+thetaDot: 0.327638
+0.006264
+Current State:
+x: 0.014388
+xDot: 0.109840
+theta: 0.244056
+thetaDot: 0.336432
+0.005855
+Current State:
+x: 0.015039
+xDot: 0.112543
+theta: 0.246050
+thetaDot: 0.344719
+0.006216
+Current State:
+x: 0.015748
+xDot: 0.115435
+theta: 0.248221
+thetaDot: 0.353590
+0.006027
+Current State:
+x: 0.016452
+xDot: 0.118263
+theta: 0.250378
+thetaDot: 0.362264
+0.005969
+Current State:
+x: 0.017166
+xDot: 0.121087
+theta: 0.252566
+thetaDot: 0.370929
+0.006026
+Current State:
+x: 0.017905
+xDot: 0.123963
+theta: 0.254828
+thetaDot: 0.379752
+0.006042
+Current State:
+x: 0.018663
+xDot: 0.126872
+theta: 0.257149
+thetaDot: 0.388677
+0.006092
+Current State:
+x: 0.019444
+xDot: 0.129831
+theta: 0.259545
+thetaDot: 0.397757
+0.006144
+Current State:
+x: 0.020251
+xDot: 0.132842
+theta: 0.262017
+thetaDot: 0.406997
+0.006102
+Current State:
+x: 0.021071
+xDot: 0.135860
+theta: 0.264528
+thetaDot: 0.416261
+0.006104
+Current State:
+x: 0.021910
+xDot: 0.138907
+theta: 0.267098
+thetaDot: 0.425615
+0.000203
+Current State:
+x: 0.021938
+xDot: 0.139009
+theta: 0.267184
+thetaDot: 0.425928
+0.005813
+Current State:
+x: 0.022755
+xDot: 0.141939
+theta: 0.269686
+thetaDot: 0.434923
+0.006140
+Current State:
+x: 0.023636
+xDot: 0.145062
+theta: 0.272386
+thetaDot: 0.444512
+0.006040
+Current State:
+x: 0.024521
+xDot: 0.148163
+theta: 0.275100
+thetaDot: 0.454037
+0.006085
+Current State:
+x: 0.025432
+xDot: 0.151318
+theta: 0.277892
+thetaDot: 0.463727
+0.005947
+Current State:
+x: 0.026341
+xDot: 0.154432
+theta: 0.280678
+thetaDot: 0.473291
+0.006274
+Current State:
+x: 0.027321
+xDot: 0.157749
+theta: 0.283680
+thetaDot: 0.483482
+0.005814
+Current State:
+x: 0.028247
+xDot: 0.160853
+theta: 0.286518
+thetaDot: 0.493021
+0.006088
+Current State:
+x: 0.029236
+xDot: 0.164136
+theta: 0.289551
+thetaDot: 0.503109
+0.006003
+Current State:
+x: 0.030231
+xDot: 0.167406
+theta: 0.292601
+thetaDot: 0.513159
+0.006268
+Current State:
+x: 0.031292
+xDot: 0.170855
+theta: 0.295851
+thetaDot: 0.523763
+0.006123
+Current State:
+x: 0.032348
+xDot: 0.174260
+theta: 0.299090
+thetaDot: 0.534231
+0.005960
+Current State:
+x: 0.033397
+xDot: 0.177609
+theta: 0.302305
+thetaDot: 0.544529
+0.006134
+Current State:
+x: 0.034497
+xDot: 0.181091
+theta: 0.305678
+thetaDot: 0.555239
+0.006022
+Current State:
+x: 0.035598
+xDot: 0.184547
+theta: 0.309053
+thetaDot: 0.565867
+0.006099
+Current State:
+x: 0.036734
+xDot: 0.188083
+theta: 0.312538
+thetaDot: 0.576746
+0.005978
+Current State:
+x: 0.037869
+xDot: 0.191586
+theta: 0.316018
+thetaDot: 0.587526
+0.006027
+Current State:
+x: 0.039034
+xDot: 0.195155
+theta: 0.319592
+thetaDot: 0.598511
+0.006024
+Current State:
+x: 0.040221
+xDot: 0.198761
+theta: 0.323231
+thetaDot: 0.609611
+0.005993
+Current State:
+x: 0.041423
+xDot: 0.202387
+theta: 0.326918
+thetaDot: 0.620776
+0.005988
+Current State:
+x: 0.042646
+xDot: 0.206049
+theta: 0.330669
+thetaDot: 0.632055
+0.006097
+Current State:
+x: 0.043914
+xDot: 0.209819
+theta: 0.334558
+thetaDot: 0.643666
+0.006066
+Current State:
+x: 0.045198
+xDot: 0.213611
+theta: 0.338498
+thetaDot: 0.655348
+0.006117
+Current State:
+x: 0.046516
+xDot: 0.217477
+theta: 0.342543
+thetaDot: 0.667262
+0.006111
+Current State:
+x: 0.047857
+xDot: 0.221384
+theta: 0.346657
+thetaDot: 0.679302
+0.006056
+Current State:
+x: 0.049210
+xDot: 0.225298
+theta: 0.350807
+thetaDot: 0.691370
+0.006043
+Current State:
+x: 0.050583
+xDot: 0.229249
+theta: 0.355022
+thetaDot: 0.703552
+0.006113
+Current State:
+x: 0.051997
+xDot: 0.233290
+theta: 0.359361
+thetaDot: 0.716017
+0.006017
+Current State:
+x: 0.053413
+xDot: 0.237313
+theta: 0.363707
+thetaDot: 0.728428
+0.006227
+Current State:
+x: 0.054904
+xDot: 0.241525
+theta: 0.368284
+thetaDot: 0.741424
+0.005898
+Current State:
+x: 0.056340
+xDot: 0.245559
+theta: 0.372693
+thetaDot: 0.753877
+0.006081
+Current State:
+x: 0.057846
+xDot: 0.249766
+theta: 0.377317
+thetaDot: 0.766865
+0.006289
+Current State:
+x: 0.059431
+xDot: 0.254168
+theta: 0.382183
+thetaDot: 0.780459
+0.005838
+Current State:
+x: 0.060927
+xDot: 0.258302
+theta: 0.386776
+thetaDot: 0.793226
+0.006133
+Current State:
+x: 0.062524
+xDot: 0.262693
+theta: 0.391682
+thetaDot: 0.806794
+0.006168
+Current State:
+x: 0.064158
+xDot: 0.267162
+theta: 0.396701
+thetaDot: 0.820606
+0.005882
+Current State:
+x: 0.065742
+xDot: 0.271472
+theta: 0.401567
+thetaDot: 0.833932
+0.005986
+Current State:
+x: 0.067381
+xDot: 0.275909
+theta: 0.406600
+thetaDot: 0.847652
+0.006040
+Current State:
+x: 0.069061
+xDot: 0.280438
+theta: 0.411762
+thetaDot: 0.861662
+0.006017
+Current State:
+x: 0.070762
+xDot: 0.285002
+theta: 0.416989
+thetaDot: 0.875783
+0.006071
+Current State:
+x: 0.072506
+xDot: 0.289661
+theta: 0.422350
+thetaDot: 0.890202
+0.006020
+Current State:
+x: 0.074264
+xDot: 0.294335
+theta: 0.427753
+thetaDot: 0.904672
+0.006055
+Current State:
+x: 0.076061
+xDot: 0.299091
+theta: 0.433275
+thetaDot: 0.919400
+0.006071
+Current State:
+x: 0.077892
+xDot: 0.303915
+theta: 0.438903
+thetaDot: 0.934345
+0.006125
+Current State:
+x: 0.079768
+xDot: 0.308840
+theta: 0.444672
+thetaDot: 0.949605
+0.006080
+Current State:
+x: 0.081661
+xDot: 0.313786
+theta: 0.450492
+thetaDot: 0.964937
+0.006097
+Current State:
+x: 0.083589
+xDot: 0.318804
+theta: 0.456422
+thetaDot: 0.980498
+0.006080
+Current State:
+x: 0.085543
+xDot: 0.323869
+theta: 0.462432
+thetaDot: 0.996206
+0.006020
+Current State:
+x: 0.087508
+xDot: 0.328941
+theta: 0.468476
+thetaDot: 1.011945
+0.005954
+Current State:
+x: 0.089481
+xDot: 0.334017
+theta: 0.474548
+thetaDot: 1.027699
+0.006316
+Current State:
+x: 0.091608
+xDot: 0.339465
+theta: 0.481092
+thetaDot: 1.044615
+0.005919
+Current State:
+x: 0.093633
+xDot: 0.344631
+theta: 0.487323
+thetaDot: 1.060662
+0.005977
+Current State:
+x: 0.095708
+xDot: 0.349909
+theta: 0.493712
+thetaDot: 1.077058
+0.006235
+Current State:
+x: 0.097908
+xDot: 0.355479
+theta: 0.500482
+thetaDot: 1.094371
+0.006011
+Current State:
+x: 0.100061
+xDot: 0.360913
+theta: 0.507111
+thetaDot: 1.111264
+0.005998
+Current State:
+x: 0.102242
+xDot: 0.366397
+theta: 0.513827
+thetaDot: 1.128323
+0.006034
+Current State:
+x: 0.104470
+xDot: 0.371979
+theta: 0.520688
+thetaDot: 1.145689
+0.006115
+Current State:
+x: 0.106762
+xDot: 0.377702
+theta: 0.527748
+thetaDot: 1.163501
+0.006094
+Current State:
+x: 0.109081
+xDot: 0.383472
+theta: 0.534893
+thetaDot: 1.181465
+0.005913
+Current State:
+x: 0.111365
+xDot: 0.389135
+theta: 0.541931
+thetaDot: 1.199103
+0.006045
+Current State:
+x: 0.113735
+xDot: 0.394992
+theta: 0.549235
+thetaDot: 1.217349
+0.006068
+Current State:
+x: 0.116150
+xDot: 0.400938
+theta: 0.556678
+thetaDot: 1.235881
+0.006245
+Current State:
+x: 0.118674
+xDot: 0.407130
+theta: 0.564457
+thetaDot: 1.255186
+0.005900
+Current State:
+x: 0.121093
+xDot: 0.413048
+theta: 0.571917
+thetaDot: 1.273642
+0.006064
+Current State:
+x: 0.123616
+xDot: 0.419198
+theta: 0.579699
+thetaDot: 1.292831
+0.006058
+Current State:
+x: 0.126175
+xDot: 0.425414
+theta: 0.587590
+thetaDot: 1.312228
+0.006082
+Current State:
+x: 0.128781
+xDot: 0.431725
+theta: 0.595630
+thetaDot: 1.331930
+0.006015
+Current State:
+x: 0.131397
+xDot: 0.438038
+theta: 0.603701
+thetaDot: 1.351643
+0.006307
+Current State:
+x: 0.134181
+xDot: 0.444733
+theta: 0.612292
+thetaDot: 1.372560
+0.005802
+Current State:
+x: 0.136779
+xDot: 0.450962
+theta: 0.620311
+thetaDot: 1.392024
+0.006196
+Current State:
+x: 0.139594
+xDot: 0.457689
+theta: 0.629002
+thetaDot: 1.413049
+0.005905
+Current State:
+x: 0.142316
+xDot: 0.464171
+theta: 0.637405
+thetaDot: 1.433314
+0.006217
+Current State:
+x: 0.145223
+xDot: 0.471072
+theta: 0.646383
+thetaDot: 1.454898
+0.005991
+Current State:
+x: 0.148065
+xDot: 0.477797
+theta: 0.655162
+thetaDot: 1.475934
+0.006031
+Current State:
+x: 0.150967
+xDot: 0.484640
+theta: 0.664128
+thetaDot: 1.497347
+0.006093
+Current State:
+x: 0.153941
+xDot: 0.491631
+theta: 0.673317
+thetaDot: 1.519224
+0.006047
+Current State:
+x: 0.156935
+xDot: 0.498644
+theta: 0.682569
+thetaDot: 1.541179
+0.006031
+Current State:
+x: 0.159964
+xDot: 0.505715
+theta: 0.691930
+thetaDot: 1.563318
+0.006035
+Current State:
+x: 0.163037
+xDot: 0.512867
+theta: 0.701432
+thetaDot: 1.585716
+0.006079
+Current State:
+x: 0.166177
+xDot: 0.520150
+theta: 0.711142
+thetaDot: 1.608526
+0.006032
+Current State:
+x: 0.169337
+xDot: 0.527454
+theta: 0.720914
+thetaDot: 1.631404
+0.006042
+Current State:
+x: 0.172546
+xDot: 0.534847
+theta: 0.730840
+thetaDot: 1.654564
+0.006070
+Current State:
+x: 0.175816
+xDot: 0.542353
+theta: 0.740956
+thetaDot: 1.678082
+0.006093
+Current State:
+x: 0.179143
+xDot: 0.549966
+theta: 0.751253
+thetaDot: 1.701937
+0.006051
+Current State:
+x: 0.182494
+xDot: 0.557606
+theta: 0.761624
+thetaDot: 1.725876
+0.006059
+Current State:
+x: 0.185896
+xDot: 0.565336
+theta: 0.772155
+thetaDot: 1.750095
+0.006064
+Current State:
+x: 0.189348
+xDot: 0.573151
+theta: 0.782841
+thetaDot: 1.774581
+0.006104
+Current State:
+x: 0.192871
+xDot: 0.581098
+theta: 0.793748
+thetaDot: 1.799476
+0.006050
+Current State:
+x: 0.196410
+xDot: 0.589054
+theta: 0.804710
+thetaDot: 1.824399
+0.006047
+Current State:
+x: 0.199997
+xDot: 0.597086
+theta: 0.815819
+thetaDot: 1.849556
+0.006195
+Current State:
+x: 0.203721
+xDot: 0.605398
+theta: 0.827357
+thetaDot: 1.875581
+0.006156
+Current State:
+x: 0.207474
+xDot: 0.613739
+theta: 0.838984
+thetaDot: 1.901694
+0.006018
+Current State:
+x: 0.211192
+xDot: 0.621973
+theta: 0.850505
+thetaDot: 1.927463
+0.005863
+Current State:
+x: 0.214862
+xDot: 0.630071
+theta: 0.861880
+thetaDot: 1.952797
+0.006111
+Current State:
+x: 0.218739
+xDot: 0.638591
+theta: 0.873895
+thetaDot: 1.979440
+0.006030
+Current State:
+x: 0.222615
+xDot: 0.647079
+theta: 0.885911
+thetaDot: 2.005967
+0.006056
+Current State:
+x: 0.226560
+xDot: 0.655680
+theta: 0.898140
+thetaDot: 2.032839
+0.006042
+Current State:
+x: 0.230547
+xDot: 0.664342
+theta: 0.910504
+thetaDot: 2.059881
+0.006069
+Current State:
+x: 0.234606
+xDot: 0.673121
+theta: 0.923088
+thetaDot: 2.087271
+0.006140
+Current State:
+x: 0.238766
+xDot: 0.682084
+theta: 0.935990
+thetaDot: 2.115212
+0.005944
+Current State:
+x: 0.242847
+xDot: 0.690837
+theta: 0.948644
+thetaDot: 2.142479
+0.006086
+Current State:
+x: 0.247078
+xDot: 0.699877
+theta: 0.961768
+thetaDot: 2.170613
+0.006039
+Current State:
+x: 0.251332
+xDot: 0.708925
+theta: 0.974961
+thetaDot: 2.198742
+0.006068
+Current State:
+x: 0.255662
+xDot: 0.718093
+theta: 0.988389
+thetaDot: 2.227215
+0.006107
+Current State:
+x: 0.260075
+xDot: 0.727397
+theta: 1.002078
+thetaDot: 2.256077
+0.006051
+Current State:
+x: 0.264505
+xDot: 0.736692
+theta: 1.015817
+thetaDot: 2.284875
+0.006059
+Current State:
+x: 0.268997
+xDot: 0.746075
+theta: 1.029750
+thetaDot: 2.313905
+0.006071
+Current State:
+x: 0.273556
+xDot: 0.755552
+theta: 1.043887
+thetaDot: 2.343181
+0.006043
+Current State:
+x: 0.278150
+xDot: 0.765058
+theta: 1.058136
+thetaDot: 2.372501
+0.006247
+Current State:
+x: 0.282960
+xDot: 0.774960
+theta: 1.073052
+thetaDot: 2.402990
+0.006014
+Current State:
+x: 0.287650
+xDot: 0.784565
+theta: 1.087593
+thetaDot: 2.432512
+0.006125
+Current State:
+x: 0.292486
+xDot: 0.794420
+theta: 1.102585
+thetaDot: 2.462739
+0.005962
+Current State:
+x: 0.297251
+xDot: 0.804080
+theta: 1.117357
+thetaDot: 2.492311
+0.006051
+Current State:
+x: 0.302146
+xDot: 0.813952
+theta: 1.132528
+thetaDot: 2.522461
+0.005984
+Current State:
+x: 0.307046
+xDot: 0.823779
+theta: 1.147711
+thetaDot: 2.552409
+0.006040
+Current State:
+x: 0.312052
+xDot: 0.833765
+theta: 1.163219
+thetaDot: 2.582761
+0.006095
+Current State:
+x: 0.317164
+xDot: 0.843905
+theta: 1.179054
+thetaDot: 2.613506
+0.006041
+Current State:
+x: 0.322292
+xDot: 0.854019
+theta: 1.194934
+thetaDot: 2.644081
+0.006040
+Current State:
+x: 0.327481
+xDot: 0.864191
+theta: 1.210996
+thetaDot: 2.674746
+0.006054
+Current State:
+x: 0.332744
+xDot: 0.874447
+theta: 1.227283
+thetaDot: 2.705567
+0.006054
+Current State:
+x: 0.338070
+xDot: 0.884761
+theta: 1.243757
+thetaDot: 2.736460
+0.006087
+Current State:
+x: 0.343487
+xDot: 0.895186
+theta: 1.260508
+thetaDot: 2.767579
+0.006071
+Current State:
+x: 0.348953
+xDot: 0.905637
+theta: 1.277404
+thetaDot: 2.798662
+0.006052
+Current State:
+x: 0.354465
+xDot: 0.916107
+theta: 1.294435
+thetaDot: 2.829683
+0.006067
+Current State:
+x: 0.360055
+xDot: 0.926652
+theta: 1.311697
+thetaDot: 2.860803
+0.006086
+Current State:
+x: 0.365728
+xDot: 0.937278
+theta: 1.329203
+thetaDot: 2.892029
+0.006032
+Current State:
+x: 0.371413
+xDot: 0.947854
+theta: 1.346742
+thetaDot: 2.922972
+0.006073
+Current State:
+x: 0.377202
+xDot: 0.958542
+theta: 1.364588
+thetaDot: 2.954102
+0.006062
+Current State:
+x: 0.383045
+xDot: 0.969249
+theta: 1.382588
+thetaDot: 2.985137
+0.005997
+Current State:
+x: 0.388890
+xDot: 0.979879
+theta: 1.400583
+thetaDot: 3.015794
+0.006253
+Current State:
+x: 0.395051
+xDot: 0.990995
+theta: 1.419540
+thetaDot: 3.047686
+0.005906
+Current State:
+x: 0.400935
+xDot: 1.001523
+theta: 1.437627
+thetaDot: 3.077728
+0.006076
+Current State:
+x: 0.407053
+xDot: 1.012381
+theta: 1.456420
+thetaDot: 3.108536
+0.006112
+Current State:
+x: 0.413273
+xDot: 1.023325
+theta: 1.475513
+thetaDot: 3.139408
+0.006146
+Current State:
+x: 0.419597
+xDot: 1.034353
+theta: 1.494904
+thetaDot: 3.170320
+0.005901
+Current State:
+x: 0.425732
+xDot: 1.044955
+theta: 1.513699
+thetaDot: 3.199854
+0.006056
+Current State:
+x: 0.432093
+xDot: 1.055847
+theta: 1.533167
+thetaDot: 3.229998
+0.006050
+Current State:
+x: 0.438514
+xDot: 1.066737
+theta: 1.552800
+thetaDot: 3.259931
+0.006243
+Current State:
+x: 0.445208
+xDot: 1.077978
+theta: 1.573248
+thetaDot: 3.290607
+0.006046
+Current State:
+x: 0.451759
+xDot: 1.088864
+theta: 1.593232
+thetaDot: 3.320093
+0.005895
+Current State:
+x: 0.458208
+xDot: 1.099472
+theta: 1.612886
+thetaDot: 3.348613
+0.006050
+Current State:
+x: 0.464893
+xDot: 1.110351
+theta: 1.633233
+thetaDot: 3.377635
+0.006069
+Current State:
+x: 0.471664
+xDot: 1.121250
+theta: 1.653818
+thetaDot: 3.406474
+0.006099
+Current State:
+x: 0.478536
+xDot: 1.132183
+theta: 1.674681
+thetaDot: 3.435163
+0.006036
+Current State:
+x: 0.485402
+xDot: 1.142979
+theta: 1.695499
+thetaDot: 3.463249
+0.006088
+Current State:
+x: 0.492394
+xDot: 1.153840
+theta: 1.716669
+thetaDot: 3.491253
+0.006038
+Current State:
+x: 0.499393
+xDot: 1.164578
+theta: 1.737834
+thetaDot: 3.518688
+0.006105
+Current State:
+x: 0.506536
+xDot: 1.175395
+theta: 1.759400
+thetaDot: 3.546064
+0.006004
+Current State:
+x: 0.513625
+xDot: 1.185988
+theta: 1.780770
+thetaDot: 3.572613
+0.006258
+Current State:
+x: 0.521082
+xDot: 1.196976
+theta: 1.803213
+thetaDot: 3.599878
+0.006009
+Current State:
+x: 0.528306
+xDot: 1.207470
+theta: 1.824922
+thetaDot: 3.625647
+0.005914
+Current State:
+x: 0.535477
+xDot: 1.217738
+theta: 1.846438
+thetaDot: 3.650604
+0.006184
+Current State:
+x: 0.543041
+xDot: 1.228406
+theta: 1.869093
+thetaDot: 3.676253
+0.005988
+Current State:
+x: 0.550427
+xDot: 1.238662
+theta: 1.891181
+thetaDot: 3.700642
+0.006028
+Current State:
+x: 0.557925
+xDot: 1.248907
+theta: 1.913562
+thetaDot: 3.724734
+0.006045
+Current State:
+x: 0.565506
+xDot: 1.259094
+theta: 1.936149
+thetaDot: 3.748416
+0.006119
+Current State:
+x: 0.573242
+xDot: 1.269314
+theta: 1.959159
+thetaDot: 3.771892
+0.006018
+Current State:
+x: 0.580911
+xDot: 1.279265
+theta: 1.981927
+thetaDot: 3.794480
+0.006030
+Current State:
+x: 0.588655
+xDot: 1.289132
+theta: 2.004876
+thetaDot: 3.816603
+0.006104
+Current State:
+x: 0.596554
+xDot: 1.299008
+theta: 2.028240
+thetaDot: 3.838470
+0.006047
+Current State:
+x: 0.604438
+xDot: 1.308673
+theta: 2.051514
+thetaDot: 3.859597
+0.006057
+Current State:
+x: 0.612394
+xDot: 1.318230
+theta: 2.074955
+thetaDot: 3.880220
+0.006133
+Current State:
+x: 0.620508
+xDot: 1.327774
+theta: 2.098814
+thetaDot: 3.900542
+0.006009
+Current State:
+x: 0.628515
+xDot: 1.336990
+theta: 2.122313
+thetaDot: 3.919903
+0.006062
+Current State:
+x: 0.636647
+xDot: 1.346142
+theta: 2.146131
+thetaDot: 3.938872
+0.006083
+Current State:
+x: 0.644863
+xDot: 1.355177
+theta: 2.170148
+thetaDot: 3.957339
+0.006235
+Current State:
+x: 0.653340
+xDot: 1.364273
+theta: 2.194879
+thetaDot: 3.975671
+0.006236
+Current State:
+x: 0.661875
+xDot: 1.373200
+theta: 2.219725
+thetaDot: 3.993399
+0.005745
+Current State:
+x: 0.669787
+xDot: 1.381266
+theta: 2.242711
+thetaDot: 4.009193
+0.006335
+Current State:
+x: 0.678565
+xDot: 1.389981
+theta: 2.268164
+thetaDot: 4.026012
+0.005720
+Current State:
+x: 0.686538
+xDot: 1.397680
+theta: 2.291234
+thetaDot: 4.040658
+0.006299
+Current State:
+x: 0.695368
+xDot: 1.405968
+theta: 2.316734
+thetaDot: 4.056194
+0.005947
+Current State:
+x: 0.703751
+xDot: 1.413603
+theta: 2.340897
+thetaDot: 4.070296
+0.006116
+Current State:
+x: 0.712420
+xDot: 1.421260
+theta: 2.365834
+thetaDot: 4.084229
+0.005912
+Current State:
+x: 0.720844
+xDot: 1.428466
+theta: 2.390019
+thetaDot: 4.097151
+0.006058
+Current State:
+x: 0.729520
+xDot: 1.435647
+theta: 2.414878
+thetaDot: 4.109838
+0.006057
+Current State:
+x: 0.738236
+xDot: 1.442616
+theta: 2.439806
+thetaDot: 4.121969
+0.006087
+Current State:
+x: 0.747038
+xDot: 1.449403
+theta: 2.464931
+thetaDot: 4.133608
+0.006237
+Current State:
+x: 0.756099
+xDot: 1.456127
+theta: 2.490749
+thetaDot: 4.144968
+0.005845
+Current State:
+x: 0.764628
+xDot: 1.462214
+theta: 2.515005
+thetaDot: 4.155101
+0.006042
+Current State:
+x: 0.773480
+xDot: 1.468284
+theta: 2.540139
+thetaDot: 4.165060
+0.006070
+Current State:
+x: 0.782411
+xDot: 1.474150
+theta: 2.565451
+thetaDot: 4.174548
+0.006241
+Current State:
+x: 0.791629
+xDot: 1.479936
+theta: 2.591533
+thetaDot: 4.183771
+0.006016
+Current State:
+x: 0.800549
+xDot: 1.485275
+theta: 2.616728
+thetaDot: 4.192162
+0.005994
+Current State:
+x: 0.809467
+xDot: 1.490358
+theta: 2.641880
+thetaDot: 4.200041
+0.006127
+Current State:
+x: 0.818613
+xDot: 1.495307
+theta: 2.667637
+thetaDot: 4.207610
+0.006064
+Current State:
+x: 0.827695
+xDot: 1.499958
+theta: 2.693174
+thetaDot: 4.214629
+0.006097
+Current State:
+x: 0.836854
+xDot: 1.504382
+theta: 2.718889
+thetaDot: 4.221222
+0.006106
+Current State:
+x: 0.846052
+xDot: 1.508559
+theta: 2.744683
+thetaDot: 4.227368
+0.006127
+Current State:
+x: 0.855307
+xDot: 1.512492
+theta: 2.770602
+thetaDot: 4.233087
+0.006070
+Current State:
+x: 0.864500
+xDot: 1.516132
+theta: 2.796314
+thetaDot: 4.238320
+0.006081
+Current State:
+x: 0.873730
+xDot: 1.519520
+theta: 2.822102
+thetaDot: 4.243138
+0.005897
+Current State:
+x: 0.882700
+xDot: 1.522559
+theta: 2.847138
+thetaDot: 4.247416
+0.006102
+Current State:
+x: 0.891999
+xDot: 1.525444
+theta: 2.873067
+thetaDot: 4.251440
+0.006149
+Current State:
+x: 0.901387
+xDot: 1.528086
+theta: 2.899219
+thetaDot: 4.255090
+0.006032
+Current State:
+x: 0.910612
+xDot: 1.530416
+theta: 2.924897
+thetaDot: 4.258284
+0.006144
+Current State:
+x: 0.920021
+xDot: 1.532523
+theta: 2.951068
+thetaDot: 4.261151
+0.005955
+Current State:
+x: 0.929153
+xDot: 1.534307
+theta: 2.976452
+thetaDot: 4.263563
+0.005846
+Current State:
+x: 0.938127
+xDot: 1.535812
+theta: 3.001383
+thetaDot: 4.265585
+0.006103
+Current State:
+x: 0.947504
+xDot: 1.537121
+theta: 3.027420
+thetaDot: 4.267336
+0.006091
+Current State:
+x: 0.956871
+xDot: 1.538160
+theta: 3.053419
+thetaDot: 4.268721
+0.005995
+Current State:
+x: 0.966095
+xDot: 1.538923
+theta: 3.079014
+thetaDot: 4.269733
+0.005997
+Current State:
+x: 0.975326
+xDot: 1.539427
+theta: 3.104623
+thetaDot: 4.270401
+0.006112
+Current State:
+x: 0.984735
+xDot: 1.539673
+theta: 3.130723
+thetaDot: 4.270727
+0.006143
+Current State:
+x: 0.994194
+xDot: 1.539650
+theta: 3.156959
+thetaDot: 4.270696
+0.006045
+Current State:
+x: 1.003501
+xDot: 1.539362
+theta: 3.182777
+thetaDot: 4.270315
+0.006027
+Current State:
+x: 1.012777
+xDot: 1.538812
+theta: 3.208512
+thetaDot: 4.269586
+0.006280
+Current State:
+x: 1.022438
+xDot: 1.537961
+theta: 3.235321
+thetaDot: 4.268455
+0.005987
+Current State:
+x: 1.031643
+xDot: 1.536885
+theta: 3.260873
+thetaDot: 4.267021
+0.006143
+Current State:
+x: 1.041080
+xDot: 1.535514
+theta: 3.287080
+thetaDot: 4.265185
+0.005959
+Current State:
+x: 1.050226
+xDot: 1.533925
+theta: 3.312491
+thetaDot: 4.263047
+0.006073
+Current State:
+x: 1.059537
+xDot: 1.532043
+theta: 3.338375
+thetaDot: 4.260501
+0.005938
+Current State:
+x: 1.068628
+xDot: 1.529950
+theta: 3.363665
+thetaDot: 4.257647
+0.005948
+Current State:
+x: 1.077721
+xDot: 1.527600
+theta: 3.388980
+thetaDot: 4.254422
+0.006084
+Current State:
+x: 1.087008
+xDot: 1.524937
+theta: 3.414855
+thetaDot: 4.250735
+0.006056
+Current State:
+x: 1.096234
+xDot: 1.522027
+theta: 3.440584
+thetaDot: 4.246670
+0.006054
+Current State:
+x: 1.105439
+xDot: 1.518859
+theta: 3.466281
+thetaDot: 4.242201
+0.006063
+Current State:
+x: 1.114638
+xDot: 1.515428
+theta: 3.491988
+thetaDot: 4.237313
+0.006100
+Current State:
+x: 1.123871
+xDot: 1.511719
+theta: 3.517820
+thetaDot: 4.231968
+0.006060
+Current State:
+x: 1.133020
+xDot: 1.507778
+theta: 3.543448
+thetaDot: 4.226225
+0.006024
+Current State:
+x: 1.142090
+xDot: 1.503611
+theta: 3.568889
+thetaDot: 4.220079
+0.006084
+Current State:
+x: 1.151225
+xDot: 1.499151
+theta: 3.594545
+thetaDot: 4.213418
+0.006198
+Current State:
+x: 1.160503
+xDot: 1.494350
+theta: 3.620639
+thetaDot: 4.206154
+0.005936
+Current State:
+x: 1.169359
+xDot: 1.489511
+theta: 3.645585
+thetaDot: 4.198735
+0.006053
+Current State:
+x: 1.178359
+xDot: 1.484336
+theta: 3.670974
+thetaDot: 4.190694
+0.006076
+Current State:
+x: 1.187362
+xDot: 1.478900
+theta: 3.696412
+thetaDot: 4.182130
+0.006096
+Current State:
+x: 1.196359
+xDot: 1.473207
+theta: 3.721876
+thetaDot: 4.173032
+0.006038
+Current State:
+x: 1.205237
+xDot: 1.467334
+theta: 3.747046
+thetaDot: 4.163511
+0.006052
+Current State:
+x: 1.214100
+xDot: 1.461218
+theta: 3.772215
+thetaDot: 4.153451
+0.006152
+Current State:
+x: 1.223070
+xDot: 1.454768
+theta: 3.797735
+thetaDot: 4.142686
+0.006071
+Current State:
+x: 1.231881
+xDot: 1.448179
+theta: 3.822849
+thetaDot: 4.131523
+0.006013
+Current State:
+x: 1.240569
+xDot: 1.441436
+theta: 3.847658
+thetaDot: 4.119929
+0.006053
+Current State:
+x: 1.249273
+xDot: 1.434435
+theta: 3.872560
+thetaDot: 4.107711
+0.006085
+Current State:
+x: 1.257980
+xDot: 1.427186
+theta: 3.897518
+thetaDot: 4.094869
+0.005941
+Current State:
+x: 1.266437
+xDot: 1.419909
+theta: 3.921806
+thetaDot: 4.081787
+0.006151
+Current State:
+x: 1.275147
+xDot: 1.412173
+theta: 3.946868
+thetaDot: 4.067671
+0.006041
+Current State:
+x: 1.283654
+xDot: 1.404380
+theta: 3.971396
+thetaDot: 4.053236
+0.006073
+Current State:
+x: 1.292158
+xDot: 1.396355
+theta: 3.995966
+thetaDot: 4.038151
+0.006045
+Current State:
+x: 1.300574
+xDot: 1.388184
+theta: 4.020328
+thetaDot: 4.022565
+0.006075
+Current State:
+x: 1.308981
+xDot: 1.379794
+theta: 4.044715
+thetaDot: 4.006326
+0.006078
+Current State:
+x: 1.317342
+xDot: 1.371225
+theta: 4.069014
+thetaDot: 3.989499
+0.006055
+Current State:
+x: 1.325618
+xDot: 1.362522
+theta: 4.093118
+thetaDot: 3.972163
+0.006177
+Current State:
+x: 1.334006
+xDot: 1.353479
+theta: 4.117597
+thetaDot: 3.953888
+0.005972
+Current State:
+x: 1.342063
+xDot: 1.344582
+theta: 4.141157
+thetaDot: 3.935657
+0.006131
+Current State:
+x: 1.350279
+xDot: 1.335299
+theta: 4.165228
+thetaDot: 3.916370
+0.005997
+Current State:
+x: 1.358259
+xDot: 1.326078
+theta: 4.188657
+thetaDot: 3.896950
+0.006016
+Current State:
+x: 1.366208
+xDot: 1.316694
+theta: 4.212040
+thetaDot: 3.876924
+0.006069
+Current State:
+x: 1.374170
+xDot: 1.307098
+theta: 4.235506
+thetaDot: 3.856174
+0.006192
+Current State:
+x: 1.382233
+xDot: 1.297180
+theta: 4.259317
+thetaDot: 3.834444
+0.005858
+Current State:
+x: 1.389804
+xDot: 1.287685
+theta: 4.281717
+thetaDot: 3.813376
+0.006055
+Current State:
+x: 1.397571
+xDot: 1.277762
+theta: 4.304740
+thetaDot: 3.791086
+0.006186
+Current State:
+x: 1.405443
+xDot: 1.267517
+theta: 4.328119
+thetaDot: 3.767787
+0.006006
+Current State:
+x: 1.413025
+xDot: 1.257474
+theta: 4.350678
+thetaDot: 3.744668
+0.006028
+Current State:
+x: 1.420575
+xDot: 1.247302
+theta: 4.373179
+thetaDot: 3.720979
+0.006022
+Current State:
+x: 1.428055
+xDot: 1.237056
+theta: 4.395515
+thetaDot: 3.696842
+0.006083
+Current State:
+x: 1.435549
+xDot: 1.226626
+theta: 4.417929
+thetaDot: 3.671997
+0.006038
+Current State:
+x: 1.442924
+xDot: 1.216201
+theta: 4.440025
+thetaDot: 3.646887
+0.006071
+Current State:
+x: 1.450276
+xDot: 1.205652
+theta: 4.462088
+thetaDot: 3.621205
+0.006073
+Current State:
+x: 1.457565
+xDot: 1.195039
+theta: 4.484000
+thetaDot: 3.595094
+0.006048
+Current State:
+x: 1.464761
+xDot: 1.184413
+theta: 4.505663
+thetaDot: 3.568687
+0.006161
+Current State:
+x: 1.472024
+xDot: 1.173539
+theta: 4.527566
+thetaDot: 3.541390
+0.006020
+Current State:
+x: 1.479057
+xDot: 1.162869
+theta: 4.548805
+thetaDot: 3.514343
+0.006076
+Current State:
+x: 1.486091
+xDot: 1.152061
+theta: 4.570076
+thetaDot: 3.486690
+0.005989
+Current State:
+x: 1.492958
+xDot: 1.141376
+theta: 4.590875
+thetaDot: 3.459102
+0.006063
+Current State:
+x: 1.499846
+xDot: 1.130531
+theta: 4.611763
+thetaDot: 3.430854
+0.006059
+Current State:
+x: 1.506663
+xDot: 1.119671
+theta: 4.632464
+thetaDot: 3.402322
+0.006088
+Current State:
+x: 1.513446
+xDot: 1.108741
+theta: 4.653088
+thetaDot: 3.373367
+0.006036
+Current State:
+x: 1.520105
+xDot: 1.097892
+theta: 4.673362
+thetaDot: 3.344393
+0.006066
+Current State:
+x: 1.526731
+xDot: 1.086981
+theta: 4.693559
+thetaDot: 3.315026
+0.006096
+Current State:
+x: 1.533324
+xDot: 1.076012
+theta: 4.713677
+thetaDot: 3.285277
+0.006019
+Current State:
+x: 1.539769
+xDot: 1.065181
+theta: 4.733364
+thetaDot: 3.255690
+0.006140
+Current State:
+x: 1.546275
+xDot: 1.054140
+theta: 4.753259
+thetaDot: 3.225312
+0.006026
+Current State:
+x: 1.552595
+xDot: 1.043312
+theta: 4.772606
+thetaDot: 3.195318
+0.006235
+Current State:
+x: 1.559064
+xDot: 1.032123
+theta: 4.792430
+thetaDot: 3.164119
+0.005857
+Current State:
+x: 1.565079
+xDot: 1.021628
+theta: 4.810878
+thetaDot: 3.134669
+0.006072
+Current State:
+x: 1.571250
+xDot: 1.010769
+theta: 4.829818
+thetaDot: 3.104017
+0.006072
+Current State:
+x: 1.577354
+xDot: 0.999935
+theta: 4.848572
+thetaDot: 3.073256
+0.005999
+Current State:
+x: 1.583320
+xDot: 0.989259
+theta: 4.866915
+thetaDot: 3.042774
+0.006089
+Current State:
+x: 1.589311
+xDot: 0.978453
+theta: 4.885349
+thetaDot: 3.011755
+0.006080
+Current State:
+x: 1.595227
+xDot: 0.967699
+theta: 4.903566
+thetaDot: 2.980724
+0.006012
+Current State:
+x: 1.601013
+xDot: 0.957102
+theta: 4.921393
+thetaDot: 2.949995
+0.006092
+Current State:
+x: 1.606810
+xDot: 0.946406
+theta: 4.939268
+thetaDot: 2.918830
+0.006051
+Current State:
+x: 1.612505
+xDot: 0.935824
+theta: 4.956836
+thetaDot: 2.887860
+0.006086
+Current State:
+x: 1.618168
+xDot: 0.925226
+theta: 4.974317
+thetaDot: 2.856709
+0.006222
+Current State:
+x: 1.623892
+xDot: 0.914442
+theta: 4.991993
+thetaDot: 2.824878
+0.005967
+Current State:
+x: 1.629318
+xDot: 0.904151
+theta: 5.008759
+thetaDot: 2.794381
+0.005984
+Current State:
+x: 1.634697
+xDot: 0.893883
+theta: 5.025388
+thetaDot: 2.763841
+0.006103
+Current State:
+x: 1.640121
+xDot: 0.883467
+theta: 5.042161
+thetaDot: 2.732749
+0.006379
+Current State:
+x: 1.645721
+xDot: 0.872642
+theta: 5.059489
+thetaDot: 2.700326
+0.005869
+Current State:
+x: 1.650814
+xDot: 0.862741
+theta: 5.075249
+thetaDot: 2.670575
+0.005946
+Current State:
+x: 1.655914
+xDot: 0.852769
+theta: 5.091039
+thetaDot: 2.640521
+0.006122
+Current State:
+x: 1.661103
+xDot: 0.842566
+theta: 5.107109
+thetaDot: 2.609682
+0.006019
+Current State:
+x: 1.666144
+xDot: 0.832599
+theta: 5.122726
+thetaDot: 2.579476
+0.006009
+Current State:
+x: 1.671118
+xDot: 0.822714
+theta: 5.138135
+thetaDot: 2.549444
+0.013950
+Current State:
+x: 1.682436
+xDot: 0.800028
+theta: 5.173217
+thetaDot: 2.480249
+0.000306
+Current State:
+x: 1.682681
+xDot: 0.799534
+theta: 5.173977
+thetaDot: 2.478739
+0.003891
+Current State:
+x: 1.685780
+xDot: 0.793276
+theta: 5.183583
+thetaDot: 2.459589
+0.006051
+Current State:
+x: 1.690550
+xDot: 0.783602
+theta: 5.198377
+thetaDot: 2.429939
+0.006185
+Current State:
+x: 1.695367
+xDot: 0.773791
+theta: 5.213312
+thetaDot: 2.399812
+0.006163
+Current State:
+x: 1.700106
+xDot: 0.764092
+theta: 5.228011
+thetaDot: 2.369974
+0.005932
+Current State:
+x: 1.704611
+xDot: 0.754830
+theta: 5.241985
+thetaDot: 2.341439
+0.006023
+Current State:
+x: 1.709129
+xDot: 0.745502
+theta: 5.256001
+thetaDot: 2.312656
+0.006284
+Current State:
+x: 1.713784
+xDot: 0.735851
+theta: 5.270441
+thetaDot: 2.282834
+0.005919
+Current State:
+x: 1.718113
+xDot: 0.726838
+theta: 5.283871
+thetaDot: 2.254949
+0.006063
+Current State:
+x: 1.722492
+xDot: 0.717685
+theta: 5.297457
+thetaDot: 2.226597
+0.006046
+Current State:
+x: 1.726803
+xDot: 0.708638
+theta: 5.310833
+thetaDot: 2.198545
+0.006021
+Current State:
+x: 1.731043
+xDot: 0.699708
+theta: 5.323988
+thetaDot: 2.170828
+0.005917
+Current State:
+x: 1.735158
+xDot: 0.691010
+theta: 5.336753
+thetaDot: 2.143809
+0.006132
+Current State:
+x: 1.739368
+xDot: 0.682079
+theta: 5.349814
+thetaDot: 2.116043
+0.006067
+Current State:
+x: 1.743479
+xDot: 0.673327
+theta: 5.362569
+thetaDot: 2.088814
+0.006118
+Current State:
+x: 1.747572
+xDot: 0.664586
+theta: 5.375265
+thetaDot: 2.061601
+0.005946
+Current State:
+x: 1.751499
+xDot: 0.656172
+theta: 5.387445
+thetaDot: 2.035392
+0.006245
+Current State:
+x: 1.755569
+xDot: 0.647422
+theta: 5.400071
+thetaDot: 2.008123
+0.006090
+Current State:
+x: 1.759486
+xDot: 0.638975
+theta: 5.412221
+thetaDot: 1.981788
+0.005907
+Current State:
+x: 1.763237
+xDot: 0.630863
+theta: 5.423853
+thetaDot: 1.956490
+0.006062
+Current State:
+x: 1.767036
+xDot: 0.622623
+theta: 5.435635
+thetaDot: 1.930784
+0.006047
+Current State:
+x: 1.770776
+xDot: 0.614489
+theta: 5.447234
+thetaDot: 1.905401
+0.006037
+Current State:
+x: 1.774462
+xDot: 0.606452
+theta: 5.458661
+thetaDot: 1.880320
+0.006029
+Current State:
+x: 1.778095
+xDot: 0.598510
+theta: 5.469924
+thetaDot: 1.855532
+0.006123
+Current State:
+x: 1.781735
+xDot: 0.590532
+theta: 5.481209
+thetaDot: 1.830628
+0.006016
+Current State:
+x: 1.785264
+xDot: 0.582779
+theta: 5.492149
+thetaDot: 1.806426
+0.006077
+Current State:
+x: 1.788782
+xDot: 0.575034
+theta: 5.503052
+thetaDot: 1.782250
+0.006084
+Current State:
+x: 1.792257
+xDot: 0.567365
+theta: 5.513822
+thetaDot: 1.758316
+0.006051
+Current State:
+x: 1.795667
+xDot: 0.559824
+theta: 5.524391
+thetaDot: 1.734780
+0.006066
+Current State:
+x: 1.799040
+xDot: 0.552350
+theta: 5.534843
+thetaDot: 1.711458
+0.006090
+Current State:
+x: 1.802382
+xDot: 0.544933
+theta: 5.545195
+thetaDot: 1.688318
+0.006065
+Current State:
+x: 1.805664
+xDot: 0.537633
+theta: 5.555365
+thetaDot: 1.665547
+0.006072
+Current State:
+x: 1.808907
+xDot: 0.530409
+theta: 5.565411
+thetaDot: 1.643021
+0.006038
+Current State:
+x: 1.812088
+xDot: 0.523312
+theta: 5.575263
+thetaDot: 1.620896
+0.006054
+Current State:
+x: 1.815234
+xDot: 0.516281
+theta: 5.585009
+thetaDot: 1.598983
+0.006114
+Current State:
+x: 1.818370
+xDot: 0.509266
+theta: 5.594719
+thetaDot: 1.577127
+0.005938
+Current State:
+x: 1.821374
+xDot: 0.502535
+theta: 5.604022
+thetaDot: 1.556165
+0.006070
+Current State:
+x: 1.824404
+xDot: 0.495739
+theta: 5.613404
+thetaDot: 1.535007
+0.006107
+Current State:
+x: 1.827410
+xDot: 0.488988
+theta: 5.622713
+thetaDot: 1.513997
+0.006054
+Current State:
+x: 1.830350
+xDot: 0.482380
+theta: 5.631816
+thetaDot: 1.493441
+0.006145
+Current State:
+x: 1.833294
+xDot: 0.475757
+theta: 5.640930
+thetaDot: 1.472849
+0.006042
+Current State:
+x: 1.836149
+xDot: 0.469330
+theta: 5.649768
+thetaDot: 1.452873
+0.006075
+Current State:
+x: 1.838981
+xDot: 0.462950
+theta: 5.658534
+thetaDot: 1.433055
+0.005987
+Current State:
+x: 1.841734
+xDot: 0.456745
+theta: 5.667056
+thetaDot: 1.413789
+0.005990
+Current State:
+x: 1.844452
+xDot: 0.450618
+theta: 5.675468
+thetaDot: 1.394772
+0.006080
+Current State:
+x: 1.847173
+xDot: 0.444480
+theta: 5.683890
+thetaDot: 1.375734
+0.006049
+Current State:
+x: 1.849843
+xDot: 0.438456
+theta: 5.692155
+thetaDot: 1.357058
+0.006125
+Current State:
+x: 1.852510
+xDot: 0.432439
+theta: 5.700410
+thetaDot: 1.338414
+0.006047
+Current State:
+x: 1.855107
+xDot: 0.426581
+theta: 5.708448
+thetaDot: 1.320270
+0.006177
+Current State:
+x: 1.857724
+xDot: 0.420679
+theta: 5.716547
+thetaDot: 1.302004
+0.005996
+Current State:
+x: 1.860229
+xDot: 0.415031
+theta: 5.724301
+thetaDot: 1.284530
+0.006122
+Current State:
+x: 1.862753
+xDot: 0.409345
+theta: 5.732110
+thetaDot: 1.266949
+0.005982
+Current State:
+x: 1.865185
+xDot: 0.403867
+theta: 5.739638
+thetaDot: 1.250022
+0.006038
+Current State:
+x: 1.867607
+xDot: 0.398416
+theta: 5.747135
+thetaDot: 1.233187
+0.006060
+Current State:
+x: 1.870005
+xDot: 0.393024
+theta: 5.754557
+thetaDot: 1.216544
+0.006032
+Current State:
+x: 1.872359
+xDot: 0.387735
+theta: 5.761846
+thetaDot: 1.200226
+0.006062
+Current State:
+x: 1.874694
+xDot: 0.382497
+theta: 5.769072
+thetaDot: 1.184078
+0.006034
+Current State:
+x: 1.876986
+xDot: 0.377360
+theta: 5.776169
+thetaDot: 1.168250
+0.006102
+Current State:
+x: 1.879273
+xDot: 0.372243
+theta: 5.783249
+thetaDot: 1.152491
+0.006081
+Current State:
+x: 1.881522
+xDot: 0.367221
+theta: 5.790211
+thetaDot: 1.137034
+0.006006
+Current State:
+x: 1.883713
+xDot: 0.362336
+theta: 5.796995
+thetaDot: 1.122007
+0.006051
+Current State:
+x: 1.885890
+xDot: 0.357489
+theta: 5.803739
+thetaDot: 1.107107
+0.006176
+Current State:
+x: 1.888083
+xDot: 0.352620
+theta: 5.810530
+thetaDot: 1.092147
+0.006045
+Current State:
+x: 1.890201
+xDot: 0.347929
+theta: 5.817089
+thetaDot: 1.077742
+0.006026
+Current State:
+x: 1.892283
+xDot: 0.343327
+theta: 5.823540
+thetaDot: 1.063619
+0.006060
+Current State:
+x: 1.894350
+xDot: 0.338771
+theta: 5.829943
+thetaDot: 1.049647
+0.006091
+Current State:
+x: 1.896400
+xDot: 0.334267
+theta: 5.836295
+thetaDot: 1.035839
+0.006003
+Current State:
+x: 1.898393
+xDot: 0.329899
+theta: 5.842472
+thetaDot: 1.022460
+0.006035
+Current State:
+x: 1.900371
+xDot: 0.325580
+theta: 5.848603
+thetaDot: 1.009235
+0.006096
+Current State:
+x: 1.902343
+xDot: 0.321290
+theta: 5.854715
+thetaDot: 0.996105
+0.006102
+Current State:
+x: 1.904290
+xDot: 0.317067
+theta: 5.860754
+thetaDot: 0.983192
+0.006060
+Current State:
+x: 1.906199
+xDot: 0.312945
+theta: 5.866673
+thetaDot: 0.970592
+0.006061
+Current State:
+x: 1.908083
+xDot: 0.308893
+theta: 5.872518
+thetaDot: 0.958212
+0.006065
+Current State:
+x: 1.909945
+xDot: 0.304908
+theta: 5.878293
+thetaDot: 0.946046
+0.005963
+Current State:
+x: 1.911751
+xDot: 0.301058
+theta: 5.883899
+thetaDot: 0.934297
+0.006026
+Current State:
+x: 1.913554
+xDot: 0.297235
+theta: 5.889493
+thetaDot: 0.922638
+0.006114
+Current State:
+x: 1.915360
+xDot: 0.293425
+theta: 5.895099
+thetaDot: 0.911025
+0.006074
+Current State:
+x: 1.917130
+xDot: 0.289709
+theta: 5.900598
+thetaDot: 0.899704
+0.006075
+Current State:
+x: 1.918879
+xDot: 0.286060
+theta: 5.906030
+thetaDot: 0.888595
+0.006047
+Current State:
+x: 1.920598
+xDot: 0.282496
+theta: 5.911370
+thetaDot: 0.877747
+0.006048
+Current State:
+x: 1.922296
+xDot: 0.278997
+theta: 5.916646
+thetaDot: 0.867104
+0.006058
+Current State:
+x: 1.923976
+xDot: 0.275558
+theta: 5.921867
+thetaDot: 0.856651
+0.006056
+Current State:
+x: 1.925634
+xDot: 0.272187
+theta: 5.927024
+thetaDot: 0.846408
+0.006117
+Current State:
+x: 1.927289
+xDot: 0.268847
+theta: 5.932171
+thetaDot: 0.836266
+0.006122
+Current State:
+x: 1.928925
+xDot: 0.265571
+theta: 5.937260
+thetaDot: 0.826324
+0.006008
+Current State:
+x: 1.930511
+xDot: 0.262420
+theta: 5.942196
+thetaDot: 0.816765
+0.006032
+Current State:
+x: 1.932085
+xDot: 0.259321
+theta: 5.947094
+thetaDot: 0.807366
+0.006173
+Current State:
+x: 1.933676
+xDot: 0.256213
+theta: 5.952049
+thetaDot: 0.797949
+0.005944
+Current State:
+x: 1.935190
+xDot: 0.253283
+theta: 5.956765
+thetaDot: 0.789075
+0.006115
+Current State:
+x: 1.936730
+xDot: 0.250332
+theta: 5.961563
+thetaDot: 0.780141
+0.005974
+Current State:
+x: 1.938217
+xDot: 0.247511
+theta: 5.966199
+thetaDot: 0.771603
+0.006106
+Current State:
+x: 1.939720
+xDot: 0.244689
+theta: 5.970884
+thetaDot: 0.763069
+0.006110
+Current State:
+x: 1.941206
+xDot: 0.241928
+theta: 5.975521
+thetaDot: 0.754723
+0.006077
+Current State:
+x: 1.942668
+xDot: 0.239245
+theta: 5.980083
+thetaDot: 0.746614
+0.005961
+Current State:
+x: 1.944087
+xDot: 0.236671
+theta: 5.984510
+thetaDot: 0.738843
+0.006561
+Current State:
+x: 1.945631
+xDot: 0.233907
+theta: 5.989331
+thetaDot: 0.730498
+0.005586
+Current State:
+x: 1.946931
+xDot: 0.231609
+theta: 5.993392
+thetaDot: 0.723565
+0.006101
+Current State:
+x: 1.948336
+xDot: 0.229158
+theta: 5.997783
+thetaDot: 0.716172
+0.006015
+Current State:
+x: 1.949707
+xDot: 0.226800
+theta: 6.002069
+thetaDot: 0.709065
+0.006073
+Current State:
+x: 1.951078
+xDot: 0.224478
+theta: 6.006354
+thetaDot: 0.702070
+0.006006
+Current State:
+x: 1.952419
+xDot: 0.222241
+theta: 6.010550
+thetaDot: 0.695332
+0.006213
+Current State:
+x: 1.953793
+xDot: 0.219987
+theta: 6.014849
+thetaDot: 0.688546
+0.005937
+Current State:
+x: 1.955093
+xDot: 0.217890
+theta: 6.018918
+thetaDot: 0.682237
+0.006082
+Current State:
+x: 1.956411
+xDot: 0.215799
+theta: 6.023048
+thetaDot: 0.675950
+0.006040
+Current State:
+x: 1.957709
+xDot: 0.213781
+theta: 6.027112
+thetaDot: 0.669883
+0.006078
+Current State:
+x: 1.959002
+xDot: 0.211807
+theta: 6.031166
+thetaDot: 0.663953
+0.006130
+Current State:
+x: 1.960294
+xDot: 0.209875
+theta: 6.035218
+thetaDot: 0.658150
+0.005998
+Current State:
+x: 1.961548
+xDot: 0.208041
+theta: 6.039149
+thetaDot: 0.652644
+0.006116
+Current State:
+x: 1.962814
+xDot: 0.206228
+theta: 6.043123
+thetaDot: 0.647203
+0.006023
+Current State:
+x: 1.964051
+xDot: 0.204498
+theta: 6.047006
+thetaDot: 0.642015
+0.006062
+Current State:
+x: 1.965286
+xDot: 0.202814
+theta: 6.050882
+thetaDot: 0.636965
+0.006042
+Current State:
+x: 1.966506
+xDot: 0.201191
+theta: 6.054716
+thetaDot: 0.632100
+0.006109
+Current State:
+x: 1.967730
+xDot: 0.199606
+theta: 6.058563
+thetaDot: 0.627352
+0.006290
+Current State:
+x: 1.968981
+xDot: 0.198033
+theta: 6.062494
+thetaDot: 0.622643
+0.005981
+Current State:
+x: 1.970161
+xDot: 0.196593
+theta: 6.066205
+thetaDot: 0.618332
+0.006023
+Current State:
+x: 1.971341
+xDot: 0.195197
+theta: 6.069916
+thetaDot: 0.614156
+0.005888
+Current State:
+x: 1.972486
+xDot: 0.193885
+theta: 6.073521
+thetaDot: 0.610232
+0.006273
+Current State:
+x: 1.973698
+xDot: 0.192544
+theta: 6.077336
+thetaDot: 0.606223
+0.006003
+Current State:
+x: 1.974850
+xDot: 0.191316
+theta: 6.080964
+thetaDot: 0.602553
+0.006047
+Current State:
+x: 1.976004
+xDot: 0.190133
+theta: 6.084597
+thetaDot: 0.599020
+0.006035
+Current State:
+x: 1.977148
+xDot: 0.189006
+theta: 6.088202
+thetaDot: 0.595658
+0.006030
+Current State:
+x: 1.978284
+xDot: 0.187935
+theta: 6.091784
+thetaDot: 0.592460
+0.006114
+Current State:
+x: 1.979430
+xDot: 0.186903
+theta: 6.095396
+thetaDot: 0.589383
+0.005977
+Current State:
+x: 1.980544
+xDot: 0.185949
+theta: 6.098910
+thetaDot: 0.586535
+0.006203
+Current State:
+x: 1.981695
+xDot: 0.185013
+theta: 6.102540
+thetaDot: 0.583747
+0.006038
+Current State:
+x: 1.982809
+xDot: 0.184157
+theta: 6.106057
+thetaDot: 0.581197
+0.005925
+Current State:
+x: 1.983898
+xDot: 0.183370
+theta: 6.109494
+thetaDot: 0.578851
+0.006060
+Current State:
+x: 1.985007
+xDot: 0.182618
+theta: 6.112995
+thetaDot: 0.576612
+0.005993
+Current State:
+x: 1.986099
+xDot: 0.181927
+theta: 6.116444
+thetaDot: 0.574557
+0.006189
+Current State:
+x: 1.987223
+xDot: 0.181270
+theta: 6.119994
+thetaDot: 0.572601
+0.006172
+Current State:
+x: 1.988340
+xDot: 0.180670
+theta: 6.123523
+thetaDot: 0.570819
+0.005854
+Current State:
+x: 1.989396
+xDot: 0.180154
+theta: 6.126860
+thetaDot: 0.569284
+0.006302
+Current State:
+x: 1.990530
+xDot: 0.179654
+theta: 6.130443
+thetaDot: 0.567800
+0.006050
+Current State:
+x: 1.991616
+xDot: 0.179230
+theta: 6.133874
+thetaDot: 0.566540
+0.006263
+Current State:
+x: 1.992737
+xDot: 0.178848
+theta: 6.137419
+thetaDot: 0.565405
+0.005680
+Current State:
+x: 1.993752
+xDot: 0.178552
+theta: 6.140628
+thetaDot: 0.564527
+0.006039
+Current State:
+x: 1.994829
+xDot: 0.178290
+theta: 6.144034
+thetaDot: 0.563749
+0.006083
+Current State:
+x: 1.995913
+xDot: 0.178081
+theta: 6.147462
+thetaDot: 0.563128
+0.006069
+Current State:
+x: 1.996993
+xDot: 0.177927
+theta: 6.150878
+thetaDot: 0.562673
+0.006023
+Current State:
+x: 1.998065
+xDot: 0.177829
+theta: 6.154266
+thetaDot: 0.562383
+0.006069
+Current State:
+x: 1.999144
+xDot: 0.177786
+theta: 6.157678
+thetaDot: 0.562255
+0.006059
+Current State:
+x: 2.000221
+xDot: 0.177798
+theta: 6.161085
+thetaDot: 0.562290
+0.006026
+Current State:
+x: 2.001293
+xDot: 0.177865
+theta: 6.164474
+thetaDot: 0.562489
+0.006031
+Current State:
+x: 2.002366
+xDot: 0.177987
+theta: 6.167867
+thetaDot: 0.562852
+0.006163
+Current State:
+x: 2.003463
+xDot: 0.178170
+theta: 6.171337
+thetaDot: 0.563392
+0.005989
+Current State:
+x: 2.004531
+xDot: 0.178403
+theta: 6.174713
+thetaDot: 0.564081
+0.006240
+Current State:
+x: 2.005645
+xDot: 0.178705
+theta: 6.178236
+thetaDot: 0.564974
+0.005950
+Current State:
+x: 2.006709
+xDot: 0.179050
+theta: 6.181600
+thetaDot: 0.565990
+0.006069
+Current State:
+x: 2.007797
+xDot: 0.179458
+theta: 6.185039
+thetaDot: 0.567195
+0.006109
+Current State:
+x: 2.008895
+xDot: 0.179927
+theta: 6.188508
+thetaDot: 0.568579
+0.005931
+Current State:
+x: 2.009963
+xDot: 0.180438
+theta: 6.191884
+thetaDot: 0.570088
+0.006052
+Current State:
+x: 2.011057
+xDot: 0.181018
+theta: 6.195340
+thetaDot: 0.571798
+0.006077
+Current State:
+x: 2.012159
+xDot: 0.181660
+theta: 6.198820
+thetaDot: 0.573688
+0.006300
+Current State:
+x: 2.013306
+xDot: 0.182387
+theta: 6.202441
+thetaDot: 0.575832
+0.005937
+Current State:
+x: 2.014391
+xDot: 0.183132
+theta: 6.205866
+thetaDot: 0.578025
+0.006098
+Current State:
+x: 2.015510
+xDot: 0.183957
+theta: 6.209398
+thetaDot: 0.580453
+0.006015
+Current State:
+x: 2.016619
+xDot: 0.184831
+theta: 6.212897
+thetaDot: 0.583025
+0.005973
+Current State:
+x: 2.017726
+xDot: 0.185758
+theta: 6.216387
+thetaDot: 0.585752
+0.006016
+Current State:
+x: 2.018846
+xDot: 0.186753
+theta: 6.219920
+thetaDot: 0.588677
+0.006074
+Current State:
+x: 2.019984
+xDot: 0.187820
+theta: 6.223505
+thetaDot: 0.591810
+0.006140
+Current State:
+x: 2.021140
+xDot: 0.188962
+theta: 6.227148
+thetaDot: 0.595165
+0.006006
+Current State:
+x: 2.022279
+xDot: 0.190142
+theta: 6.230733
+thetaDot: 0.598630
+0.006093
+Current State:
+x: 2.023441
+xDot: 0.191404
+theta: 6.234392
+thetaDot: 0.602333
+0.006035
+Current State:
+x: 2.024600
+xDot: 0.192719
+theta: 6.238038
+thetaDot: 0.606189
+0.006026
+Current State:
+x: 2.025765
+xDot: 0.194096
+theta: 6.241703
+thetaDot: 0.610226
+0.006041
+Current State:
+x: 2.026942
+xDot: 0.195542
+theta: 6.245402
+thetaDot: 0.614465
+0.006084
+Current State:
+x: 2.028137
+xDot: 0.197066
+theta: 6.249154
+thetaDot: 0.618929
+0.006138
+Current State:
+x: 2.029351
+xDot: 0.198673
+theta: 6.252968
+thetaDot: 0.623632
+0.006061
+Current State:
+x: 2.030560
+xDot: 0.200328
+theta: 6.256762
+thetaDot: 0.628476
+0.006083
+Current State:
+x: 2.031784
+xDot: 0.202059
+theta: 6.260600
+thetaDot: 0.633540
+0.006018
+Current State:
+x: 2.033005
+xDot: 0.203842
+theta: 6.264428
+thetaDot: 0.638751
+0.006147
+Current State:
+x: 2.034264
+xDot: 0.205735
+theta: 6.268372
+thetaDot: 0.644283
+0.005899
+Current State:
+x: 2.035483
+xDot: 0.207622
+theta: 6.272189
+thetaDot: 0.649793
+0.006368
+Current State:
+x: 2.036812
+xDot: 0.209736
+theta: 6.276346
+thetaDot: 0.655965
+0.005749
+Current State:
+x: 2.038024
+xDot: 0.211716
+theta: 6.280134
+thetaDot: 0.661739
+0.006186
+Current State:
+x: 2.039340
+xDot: 0.213921
+theta: 6.284248
+thetaDot: 0.668170
+0.006004
+Current State:
+x: 2.040631
+xDot: 0.216137
+theta: 6.288279
+thetaDot: 0.674630
+0.005989
+Current State:
+x: 2.041933
+xDot: 0.218424
+theta: 6.292339
+thetaDot: 0.681290
+0.006117
+Current State:
+x: 2.043276
+xDot: 0.220839
+theta: 6.296528
+thetaDot: 0.688321
+0.006057
+Current State:
+x: 2.044621
+xDot: 0.223310
+theta: 6.300719
+thetaDot: 0.695510
+0.006176
+Current State:
+x: 2.046008
+xDot: 0.225913
+theta: 6.305038
+thetaDot: 0.703080
+0.005897
+Current State:
+x: 2.047348
+xDot: 0.228479
+theta: 6.309206
+thetaDot: 0.710536
+0.006066
+Current State:
+x: 2.048742
+xDot: 0.231200
+theta: 6.313540
+thetaDot: 0.718442
+0.006095
+Current State:
+x: 2.050160
+xDot: 0.234021
+theta: 6.317944
+thetaDot: 0.726629
+0.006104
+Current State:
+x: 2.051597
+xDot: 0.236933
+theta: 6.322405
+thetaDot: 0.735078
+0.006088
+Current State:
+x: 2.053049
+xDot: 0.239927
+theta: 6.326906
+thetaDot: 0.743759
+0.005996
+Current State:
+x: 2.054496
+xDot: 0.242964
+theta: 6.331392
+thetaDot: 0.752558
+0.006046
+Current State:
+x: 2.055975
+xDot: 0.246117
+theta: 6.335969
+thetaDot: 0.761687
+0.006035
+Current State:
+x: 2.057470
+xDot: 0.249356
+theta: 6.340593
+thetaDot: 0.771060
+0.006090
+Current State:
+x: 2.058998
+xDot: 0.252720
+theta: 6.345319
+thetaDot: 0.780788
+0.006065
+Current State:
+x: 2.060542
+xDot: 0.256167
+theta: 6.350084
+thetaDot: 0.790750
+0.006043
+Current State:
+x: 2.062100
+xDot: 0.259699
+theta: 6.354893
+thetaDot: 0.800951
+0.006208
+Current State:
+x: 2.063724
+xDot: 0.263432
+theta: 6.359899
+thetaDot: 0.811723
+0.006055
+Current State:
+x: 2.065330
+xDot: 0.267175
+theta: 6.364846
+thetaDot: 0.822519
+0.005924
+Current State:
+x: 2.066924
+xDot: 0.270939
+theta: 6.369751
+thetaDot: 0.833364
+0.006225
+Current State:
+x: 2.068623
+xDot: 0.275003
+theta: 6.374974
+thetaDot: 0.845067
+0.005944
+Current State:
+x: 2.070270
+xDot: 0.278991
+theta: 6.380032
+thetaDot: 0.856542
+0.006024
+Current State:
+x: 2.071963
+xDot: 0.283142
+theta: 6.385227
+thetaDot: 0.868475
+0.006157
+Current State:
+x: 2.073719
+xDot: 0.287500
+theta: 6.390613
+thetaDot: 0.880994
+0.006178
+Current State:
+x: 2.075509
+xDot: 0.291993
+theta: 6.396095
+thetaDot: 0.893890
+0.005946
+Current State:
+x: 2.077259
+xDot: 0.296433
+theta: 6.401448
+thetaDot: 0.906623
+0.006208
+Current State:
+x: 2.079114
+xDot: 0.301193
+theta: 6.407118
+thetaDot: 0.920263
+0.005960
+Current State:
+x: 2.080923
+xDot: 0.305886
+theta: 6.412643
+thetaDot: 0.933698
+0.006156
+Current State:
+x: 2.082821
+xDot: 0.310861
+theta: 6.418434
+thetaDot: 0.947928
+0.005848
+Current State:
+x: 2.084653
+xDot: 0.315711
+theta: 6.424018
+thetaDot: 0.961788
+0.006189
+Current State:
+x: 2.086623
+xDot: 0.320979
+theta: 6.430017
+thetaDot: 0.976826
+0.006040
+Current State:
+x: 2.088578
+xDot: 0.326256
+theta: 6.435963
+thetaDot: 0.991879
+0.006052
+Current State:
+x: 2.090569
+xDot: 0.331683
+theta: 6.442012
+thetaDot: 1.007341
+0.005954
+Current State:
+x: 2.092560
+xDot: 0.337162
+theta: 6.448057
+thetaDot: 1.022934
+0.006074
+Current State:
+x: 2.094625
+xDot: 0.342896
+theta: 6.454319
+thetaDot: 1.039236
+0.006075
+Current State:
+x: 2.096726
+xDot: 0.348781
+theta: 6.460683
+thetaDot: 1.055951
+0.006146
+Current State:
+x: 2.098889
+xDot: 0.354893
+theta: 6.467226
+thetaDot: 1.073289
+0.006218
+Current State:
+x: 2.101115
+xDot: 0.361242
+theta: 6.473956
+thetaDot: 1.091278
+0.005898
+Current State:
+x: 2.103264
+xDot: 0.367423
+theta: 6.480443
+thetaDot: 1.108768
+0.006355
+Current State:
+x: 2.105620
+xDot: 0.374259
+theta: 6.487551
+thetaDot: 1.128090
+0.005926
+Current State:
+x: 2.107858
+xDot: 0.380804
+theta: 6.494291
+thetaDot: 1.146565
+0.005841
+Current State:
+x: 2.110101
+xDot: 0.387421
+theta: 6.501042
+thetaDot: 1.165216
+0.006051
+Current State:
+x: 2.112467
+xDot: 0.394453
+theta: 6.508153
+thetaDot: 1.185013
+0.006111
+Current State:
+x: 2.114899
+xDot: 0.401744
+theta: 6.515457
+thetaDot: 1.205508
+0.005997
+Current State:
+x: 2.117331
+xDot: 0.409089
+theta: 6.522749
+thetaDot: 1.226124
+0.006266
+Current State:
+x: 2.119918
+xDot: 0.416970
+theta: 6.530500
+thetaDot: 1.248210
+0.005990
+Current State:
+x: 2.122439
+xDot: 0.424708
+theta: 6.538042
+thetaDot: 1.269864
+0.006064
+Current State:
+x: 2.125039
+xDot: 0.432752
+theta: 6.545810
+thetaDot: 1.292332
+0.006018
+Current State:
+x: 2.127668
+xDot: 0.440949
+theta: 6.553655
+thetaDot: 1.315193
+0.006095
+Current State:
+x: 2.130381
+xDot: 0.449477
+theta: 6.561743
+thetaDot: 1.338930
+0.005935
+Current State:
+x: 2.133074
+xDot: 0.458006
+theta: 6.569760
+thetaDot: 1.362630
+0.006195
+Current State:
+x: 2.135940
+xDot: 0.467154
+theta: 6.578279
+thetaDot: 1.387998
+0.006005
+Current State:
+x: 2.138772
+xDot: 0.476268
+theta: 6.586690
+thetaDot: 1.413224
+0.006070
+Current State:
+x: 2.141692
+xDot: 0.485738
+theta: 6.595348
+thetaDot: 1.439376
+0.006062
+Current State:
+x: 2.144666
+xDot: 0.495459
+theta: 6.604155
+thetaDot: 1.466168
+0.006090
+Current State:
+x: 2.147714
+xDot: 0.505502
+theta: 6.613168
+thetaDot: 1.493782
+0.005983
+Current State:
+x: 2.150768
+xDot: 0.515649
+theta: 6.622188
+thetaDot: 1.521615
+0.006259
+Current State:
+x: 2.154030
+xDot: 0.526573
+theta: 6.631805
+thetaDot: 1.551503
+0.006047
+Current State:
+x: 2.157247
+xDot: 0.537438
+theta: 6.641276
+thetaDot: 1.581154
+0.005958
+Current State:
+x: 2.160482
+xDot: 0.548453
+theta: 6.650786
+thetaDot: 1.611134
+0.006023
+Current State:
+x: 2.163819
+xDot: 0.559914
+theta: 6.660583
+thetaDot: 1.642239
+0.006164
+Current State:
+x: 2.167308
+xDot: 0.571996
+theta: 6.670806
+thetaDot: 1.674932
+0.006391
+Current State:
+x: 2.171004
+xDot: 0.584916
+theta: 6.681622
+thetaDot: 1.709780
+0.005616
+Current State:
+x: 2.174322
+xDot: 0.596615
+theta: 6.691312
+thetaDot: 1.741229
+0.005977
+Current State:
+x: 2.177927
+xDot: 0.609433
+theta: 6.701823
+thetaDot: 1.775579
+0.005968
+Current State:
+x: 2.181603
+xDot: 0.622627
+theta: 6.712523
+thetaDot: 1.810807
+0.006073
+Current State:
+x: 2.185425
+xDot: 0.636477
+theta: 6.723631
+thetaDot: 1.847648
+0.006047
+Current State:
+x: 2.189317
+xDot: 0.650712
+theta: 6.734917
+thetaDot: 1.885364
+0.006084
+Current State:
+x: 2.193321
+xDot: 0.665504
+theta: 6.746506
+thetaDot: 1.924391
+0.006085
+Current State:
+x: 2.197417
+xDot: 0.680791
+theta: 6.758338
+thetaDot: 1.964547
+0.006035
+Current State:
+x: 2.201572
+xDot: 0.696463
+theta: 6.770316
+thetaDot: 2.005520
+0.006067
+Current State:
+x: 2.205847
+xDot: 0.712759
+theta: 6.782613
+thetaDot: 2.047919
+0.006135
+Current State:
+x: 2.210272
+xDot: 0.729815
+theta: 6.795312
+thetaDot: 2.092064
+0.005966
+Current State:
+x: 2.214677
+xDot: 0.746991
+theta: 6.807925
+thetaDot: 2.136274
+0.006109
+Current State:
+x: 2.219296
+xDot: 0.765210
+theta: 6.821117
+thetaDot: 2.182902
+0.006061
+Current State:
+x: 2.223991
+xDot: 0.783955
+theta: 6.834492
+thetaDot: 2.230583
+0.006239
+Current State:
+x: 2.228944
+xDot: 0.803986
+theta: 6.848566
+thetaDot: 2.281199
+0.005844
+Current State:
+x: 2.233699
+xDot: 0.823466
+theta: 6.862040
+thetaDot: 2.330089
+0.006282
+Current State:
+x: 2.238940
+xDot: 0.845226
+theta: 6.876846
+thetaDot: 2.384306
+0.006003
+Current State:
+x: 2.244078
+xDot: 0.866866
+theta: 6.891320
+thetaDot: 2.437804
+0.005973
+Current State:
+x: 2.249322
+xDot: 0.889266
+theta: 6.906043
+thetaDot: 2.492735
+0.006036
+Current State:
+x: 2.254761
+xDot: 0.912844
+theta: 6.921261
+thetaDot: 2.550062
+0.006032
+Current State:
+x: 2.260340
+xDot: 0.937413
+theta: 6.936820
+thetaDot: 2.609252
+0.006073
+Current State:
+x: 2.266111
+xDot: 0.963235
+theta: 6.952851
+thetaDot: 2.670857
+0.006072
+Current State:
+x: 2.272041
+xDot: 0.990223
+theta: 6.969261
+thetaDot: 2.734577
+0.006184
+Current State:
+x: 2.278252
+xDot: 1.018997
+theta: 6.986377
+thetaDot: 2.801759
+0.005941
+Current State:
+x: 2.284391
+xDot: 1.047961
+theta: 7.003220
+thetaDot: 2.868591
+0.006014
+Current State:
+x: 2.290786
+xDot: 1.078698
+theta: 7.020682
+thetaDot: 2.938644
+0.006046
+Current State:
+x: 2.297405
+xDot: 1.111147
+theta: 7.038667
+thetaDot: 3.011622
+0.006076
+Current State:
+x: 2.304259
+xDot: 1.145450
+theta: 7.057195
+thetaDot: 3.087682
+0.006143
+Current State:
+x: 2.311407
+xDot: 1.182009
+theta: 7.076407
+thetaDot: 3.167508
+0.005978
+Current State:
+x: 2.318585
+xDot: 1.219551
+theta: 7.095583
+thetaDot: 3.248166
+0.006078
+Current State:
+x: 2.326119
+xDot: 1.259887
+theta: 7.115583
+thetaDot: 3.333345
+0.006053
+Current State:
+x: 2.333873
+xDot: 1.302428
+theta: 7.136027
+thetaDot: 3.421531
+0.006048
+Current State:
+x: 2.341886
+xDot: 1.347519
+theta: 7.156997
+thetaDot: 3.513175
+0.006064
+Current State:
+x: 2.350202
+xDot: 1.395576
+theta: 7.178590
+thetaDot: 3.608801
+0.006164
+Current State:
+x: 2.358963
+xDot: 1.447644
+theta: 7.201145
+thetaDot: 3.710062
+0.005971
+Current State:
+x: 2.367766
+xDot: 1.501497
+theta: 7.223602
+thetaDot: 3.812273
+0.006029
+Current State:
+x: 2.376992
+xDot: 1.559645
+theta: 7.246909
+thetaDot: 3.919819
+0.006087
+Current State:
+x: 2.386676
+xDot: 1.622621
+theta: 7.271112
+thetaDot: 4.033077
+0.006024
+Current State:
+x: 2.396650
+xDot: 1.689646
+theta: 7.295758
+thetaDot: 4.150039
+0.006028
+Current State:
+x: 2.407051
+xDot: 1.761933
+theta: 7.321141
+thetaDot: 4.272183
+0.006089
+Current State:
+x: 2.418017
+xDot: 1.840895
+theta: 7.347545
+thetaDot: 4.401022
+0.006074
+Current State:
+x: 2.429454
+xDot: 1.926329
+theta: 7.374680
+thetaDot: 4.535244
+0.006066
+Current State:
+x: 2.441417
+xDot: 2.019165
+theta: 7.402614
+thetaDot: 4.675257
+0.006079
+Current State:
+x: 2.453996
+xDot: 2.120695
+theta: 7.431477
+thetaDot: 4.821749
+0.006036
+Current State:
+x: 2.467124
+xDot: 2.231055
+theta: 7.461036
+thetaDot: 4.973523
+0.006142
+Current State:
+x: 2.481200
+xDot: 2.354454
+theta: 7.492074
+thetaDot: 5.134550
+0.006044
+Current State:
+x: 2.495828
+xDot: 2.488347
+theta: 7.523602
+thetaDot: 5.299531
+0.005978
+Current State:
+x: 2.511133
+xDot: 2.634669
+theta: 7.555785
+thetaDot: 5.468989
+0.006040
+Current State:
+x: 2.527532
+xDot: 2.798551
+theta: 7.589349
+thetaDot: 5.646275
+0.006111
+Current State:
+x: 2.545189
+xDot: 2.983191
+theta: 7.624418
+thetaDot: 5.831361
+0.006128
+Current State:
+x: 2.564093
+xDot: 3.190157
+theta: 7.660736
+thetaDot: 6.021830
+0.006072
+Current State:
+x: 2.584149
+xDot: 3.419975
+theta: 7.697884
+thetaDot: 6.214048
+0.005990
+Current State:
+x: 2.605383
+xDot: 3.674339
+theta: 7.735681
+thetaDot: 6.405211
+0.006068
+Current State:
+x: 2.628540
+xDot: 3.963951
+theta: 7.775134
+thetaDot: 6.597776
+0.006382
+Current State:
+x: 2.654911
+xDot: 4.308010
+theta: 7.817872
+thetaDot: 6.795175
+0.005793
+Current State:
+x: 2.680867
+xDot: 4.659821
+theta: 7.857733
+thetaDot: 6.965263
+0.006074
+Current State:
+x: 2.710402
+xDot: 5.073638
+theta: 7.900544
+thetaDot: 7.128367
+0.006044
+Current State:
+x: 2.742437
+xDot: 5.535313
+theta: 7.944064
+thetaDot: 7.267929
+0.006043
+Current State:
+x: 2.777416
+xDot: 6.050060
+theta: 7.988331
+thetaDot: 7.376215
+0.006096
+Current State:
+x: 2.816022
+xDot: 6.624972
+theta: 8.033528
+thetaDot: 7.444230
+0.006034
+Current State:
+x: 2.857852
+xDot: 7.248349
+theta: 8.078526
+thetaDot: 7.461273
+0.006055
+Current State:
+x: 2.903764
+xDot: 7.924065
+theta: 8.123611
+thetaDot: 7.419762
+0.006167
+Current State:
+x: 2.954863
+xDot: 8.655255
+theta: 8.169067
+thetaDot: 7.311443
+0.006037
+Current State:
+x: 3.009349
+xDot: 9.400276
+theta: 8.212717
+thetaDot: 7.139814
+0.006025
+Current State:
+x: 3.068265
+xDot: 10.156256
+theta: 8.255068
+thetaDot: 6.908450
+0.005965
+Current State:
+x: 3.131063
+xDot: 10.898293
+theta: 8.295466
+thetaDot: 6.630576
+0.006097
+Current State:
+x: 3.199758
+xDot: 11.630644
+theta: 8.334933
+thetaDot: 6.311682
+0.006139
+Current State:
+x: 3.273314
+xDot: 12.322652
+theta: 8.372648
+thetaDot: 5.973400
+0.005956
+Current State:
+x: 3.348558
+xDot: 12.935264
+theta: 8.407244
+thetaDot: 5.646282
+0.006067
+Current State:
+x: 3.428752
+xDot: 13.488147
+theta: 8.440526
+thetaDot: 5.329123
+0.006050
+Current State:
+x: 3.511829
+xDot: 13.959369
+theta: 8.471879
+thetaDot: 5.039739
+0.006138
+Current State:
+x: 3.598752
+xDot: 14.348770
+theta: 8.501995
+thetaDot: 4.779760
+0.006017
+Current State:
+x: 3.686009
+xDot: 14.637455
+theta: 8.530075
+thetaDot: 4.559212
+0.006034
+Current State:
+x: 3.774960
+xDot: 14.826109
+theta: 8.557000
+thetaDot: 4.370193
+0.006042
+Current State:
+x: 3.864827
+xDot: 14.900845
+theta: 8.582903
+thetaDot: 4.209002
+0.006181
+Current State:
+x: 3.956817
+xDot: 14.836674
+theta: 8.608470
+thetaDot: 4.067766
+0.005981
+Current State:
+x: 4.044952
+xDot: 14.603098
+theta: 8.632433
+thetaDot: 3.948668
+0.006103
+Current State:
+x: 4.132770
+xDot: 14.127067
+theta: 8.656192
+thetaDot: 3.840652
+0.006021
+Current State:
+x: 4.215582
+xDot: 13.306306
+theta: 8.679018
+thetaDot: 3.744231
+0.006005
+Current State:
+x: 4.291666
+xDot: 11.898764
+theta: 8.701223
+thetaDot: 3.657120
+0.006040
+Current State:
+x: 4.356489
+xDot: 9.220237
+theta: 8.723016
+thetaDot: 3.604150
+0.006044
+Current State:
+x: 4.396960
+xDot: -2.931674
+theta: 8.740937
+thetaDot: 11.801304
+0.006045
+Current State:
+x: 2955.558447
+xDot: 976368.188682
+theta: -3100.821984
+thetaDot: 12777095064.495977
+0.006072
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006059
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006176
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006014
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006082
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006032
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006110
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006031
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006072
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006022
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006232
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006130
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006096
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006010
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006008
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006015
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005996
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006055
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006069
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006062
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006054
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006212
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006125
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005961
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006081
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006045
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006020
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006081
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006047
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006045
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006075
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006053
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006220
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006046
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005953
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005931
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006028
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006075
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006064
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006070
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006056
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006053
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006040
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006186
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006074
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006118
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005981
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006108
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006083
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006028
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006039
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006108
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006088
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005863
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006209
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006101
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005890
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006096
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006129
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006002
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006254
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006118
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006037
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006139
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006031
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006022
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006044
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005982
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006173
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005857
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006143
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006044
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006114
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005936
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006200
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005970
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006065
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006046
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006090
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006024
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006071
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006064
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006140
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006015
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006012
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006106
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006012
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006035
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006091
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006374
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005709
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006270
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006013
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005973
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006054
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006035
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006032
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006092
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006026
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006107
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006041
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006080
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006043
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006060
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006045
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006111
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006058
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006075
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006000
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006068
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006046
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006088
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006026
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006212
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005936
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006056
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006089
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006021
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006045
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006109
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005890
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006127
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006022
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006061
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006186
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006127
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005976
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006052
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006076
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006181
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005884
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006098
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006116
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006053
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005980
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006000
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006073
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006040
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006099
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006052
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006042
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006152
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005943
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006062
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006075
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006052
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006061
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006082
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006048
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006127
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006203
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006021
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005856
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006191
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006013
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006037
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006040
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006035
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006071
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006050
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006132
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006005
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006036
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006055
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006125
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006030
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006130
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006028
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006047
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006215
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006014
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006083
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005941
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005989
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006080
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006192
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006054
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006061
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006051
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006073
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006067
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006068
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006144
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005999
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006170
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006010
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006018
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006146
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005811
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006175
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005946
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006180
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006107
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006034
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005961
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006000
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.014302
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.000080
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.003867
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005958
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006112
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006055
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006109
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006023
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006168
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006083
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006027
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006138
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006012
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006335
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006171
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006173
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006008
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005870
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006012
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006089
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006011
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005889
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006194
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006029
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006044
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005964
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005993
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006044
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006105
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006025
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006020
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006166
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006414
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005812
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006191
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006075
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005902
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006145
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005999
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006051
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006039
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006036
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006060
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006021
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006125
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006005
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006059
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006099
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006035
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006040
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006078
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006031
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006179
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006280
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005957
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005731
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006250
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005950
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005989
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006019
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006058
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006082
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006047
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006047
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006073
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006042
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006091
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006052
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006049
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006089
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006041
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006066
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006073
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006070
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006132
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006135
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006025
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005944
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006064
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006022
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006103
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006066
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006067
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006053
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006055
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006071
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006023
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006060
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006067
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006064
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006063
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006074
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006042
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006058
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006173
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006181
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006012
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006001
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005995
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006057
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005989
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006078
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006046
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006061
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006056
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006066
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006063
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006089
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006047
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006133
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006020
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006022
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006058
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006171
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005945
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006228
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006001
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005993
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006028
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006067
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006040
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006071
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006047
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006046
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006098
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006045
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006084
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006046
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006063
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006047
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006097
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006045
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006064
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006099
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006146
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006102
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005980
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006014
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006048
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006019
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006065
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006150
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005974
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006325
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006073
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006033
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005874
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006156
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006094
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005889
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006124
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006046
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006028
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006318
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005922
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006109
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006140
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005960
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005956
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006000
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006117
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005983
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006098
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006061
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005998
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006078
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006053
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006078
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006092
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006067
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006064
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006073
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006023
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006210
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006255
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005927
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006006
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006016
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006142
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006021
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006060
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006064
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006079
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006045
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006101
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005968
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005972
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006057
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006076
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006062
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006206
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006228
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006010
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005940
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006220
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006013
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006028
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005975
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006028
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006095
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006029
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006042
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006111
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005985
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005991
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006055
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006074
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006093
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006061
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006057
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006174
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006018
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006102
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006016
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006244
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006053
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005834
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005961
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006209
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006036
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005996
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006000
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006070
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006085
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006044
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006056
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006021
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006099
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006085
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006059
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006026
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006066
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006267
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005883
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006022
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006195
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005993
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006011
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006035
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006071
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006088
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006047
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006043
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006058
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006094
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006040
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006073
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006098
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006114
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005936
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006061
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006081
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006091
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006163
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006184
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006044
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005897
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006049
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006111
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005936
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006181
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006124
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005917
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006137
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006080
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006073
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006042
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006074
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006044
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006085
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006091
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006169
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005884
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006106
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006084
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005923
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006103
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006073
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005995
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006058
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006044
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006116
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006072
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006059
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006055
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006063
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006058
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006010
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006077
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006215
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005946
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006297
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005823
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006027
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006149
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006040
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005924
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006163
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006073
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006062
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006053
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006045
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006060
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006070
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006112
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006116
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006045
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006054
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.005977
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006027
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006040
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.013851
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.000100
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.004204
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006085
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006179
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006007
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006021
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006041
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006067
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006040
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.006027
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan
+0.013221
+Current State:
+x: -nan
+xDot: -nan
+theta: -nan
+thetaDot: -nan

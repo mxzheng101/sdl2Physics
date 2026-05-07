@@ -26,7 +26,7 @@ fn sine(x: f32) -> f32 {
     (x + pi_major + pi_minor) * p1 * x
 }*/
 
-double fastSine(double x)
+inline double fastSine(double x)
 {
     double coeffs[] = {
         -0.10132118,          // x
@@ -49,7 +49,7 @@ double fastSine(double x)
     return (x - pi_major - pi_minor) * (x + pi_major + pi_minor) * p1 * x;
 }
 
-double fastCosine(double x)
+inline double fastCosine(double x)
 {
     return fastSine(x - 1.570796);
 }

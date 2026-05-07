@@ -129,12 +129,12 @@ int main(int argc, char* args[])
         return 2;
     }
 
-    //createObjects();
+    createObjects();
 
     bool quit = false;
     SDL_Event e;
 
-    uint32_t lastTime = SDL_GetTicks();
+    uint32_t lastTime = SDL_GetPerformanceCounter();
 
     int relScreenX = -SCREEN_WIDTH / 2;
     int relScreenY = -SCREEN_HEIGHT / 2;
@@ -162,8 +162,9 @@ int main(int argc, char* args[])
             }
         }
 
-        uint32_t currentTime = SDL_GetTicks();
-        double dt = (double)(currentTime - lastTime) / 1000.0;
+        uint32_t currentTime = SDL_GetPerformanceCounter();
+        double dt = (double)(currentTime - lastTime) / SDL_GetPerformanceFrequency();
+        printf("%f\n", dt);
         lastTime = currentTime;
 
         SDL_SetRenderDrawColor(gRenderer, 0xff, 0xff, 0xff, 0xff);
@@ -171,7 +172,6 @@ int main(int argc, char* args[])
 
         gWorld.update(dt, SCREEN_WIDTH, SCREEN_HEIGHT, relScreenX, relScreenY);
         render(relScreenX, relScreenY);
-        renderCircle(gRenderer, SCREEN_WIDTH / 2, SCREEN_HEIGHT / 2, 30, {0x00, 0x00, 0x00, 0xff});
 
         SDL_RenderPresent(gRenderer);
     }

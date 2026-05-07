@@ -5,7 +5,7 @@
 #include <SDL.h>
 #include "Trig.hpp"
 
-void renderCircle(SDL_Renderer* renderer, int x, int y, int rad, SDL_Color color, int n = 50)
+inline void renderCircle(SDL_Renderer* renderer, int x, int y, int rad, SDL_Color color, int n = 50)
 {
     SDL_Vertex *vertices = new SDL_Vertex[n + 1];
     int* indices = new int[n*3];
@@ -19,7 +19,7 @@ void renderCircle(SDL_Renderer* renderer, int x, int y, int rad, SDL_Color color
         float xPos = (float) rad * (float) fastCosine((i-1) * inc) + x;
         float yPos = (float) rad * (float) fastSine((i-1)*inc) + y;
         vertices[i] = {xPos, yPos, color, {0.0, 0.0}};
-        printf("x: %f y: %f\n", xPos, yPos);
+        //printf("x: %f y: %f\n", xPos, yPos);
     }
 
 
